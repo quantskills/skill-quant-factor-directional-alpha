@@ -9,6 +9,8 @@ metadata:
   collection: directional-alpha
   factor_id: R466
   category: Trend
+  license: GPL-3.0-only
+  copyright: Copyright (C) 2026 QuantSkills
 ---
 
 # 7D Volume Confirmed SMA Gap

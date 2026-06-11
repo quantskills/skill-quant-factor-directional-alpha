@@ -55,3 +55,9 @@ This factor combines `Risk-Adjusted Trend` with a `Z-Scored` transform to test w
 - Top-quintile turnover: `0.3710`
 - No-lookahead check: `True`
 - Status: `pass`
+
+## License
+
+This factor Skill is licensed under the GNU General Public License v3.0.
+
+Copyright (C) 2026 QuantSkills.

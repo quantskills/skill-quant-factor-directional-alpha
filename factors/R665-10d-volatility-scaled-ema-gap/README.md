@@ -69,3 +69,9 @@ This factor combines EMA Gap with a Volatility Scaled transform to test cross-se
 - Top-quintile turnover: `0.3532`
 - No-lookahead check: `True`
 - Status: `pass`
+
+## License
+
+This factor Skill is licensed under the GNU General Public License v3.0.
+
+Copyright (C) 2026 QuantSkills.

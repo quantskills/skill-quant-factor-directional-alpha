@@ -9,6 +9,8 @@ metadata:
   collection: directional-alpha
   factor_id: R272
   category: Channel
+  license: GPL-3.0-only
+  copyright: Copyright (C) 2026 QuantSkills
 ---
 
 # 7D Z-Scored Range Position

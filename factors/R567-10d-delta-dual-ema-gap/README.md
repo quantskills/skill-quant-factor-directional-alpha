@@ -69,3 +69,9 @@ This factor combines Dual EMA Gap with a Delta transform to test cross-sectional
 - Top-quintile turnover: `0.4594`
 - No-lookahead check: `True`
 - Status: `pass`
+
+## License
+
+This factor Skill is licensed under the GNU General Public License v3.0.
+
+Copyright (C) 2026 QuantSkills.

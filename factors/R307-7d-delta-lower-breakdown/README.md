@@ -55,3 +55,9 @@ This factor combines `Lower Breakdown` with a `Delta` transform to test whether 
 - Top-quintile turnover: `0.7686`
 - No-lookahead check: `True`
 - Status: `pass`
+
+## License
+
+This factor Skill is licensed under the GNU General Public License v3.0.
+
+Copyright (C) 2026 QuantSkills.

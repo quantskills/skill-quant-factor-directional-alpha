@@ -69,3 +69,9 @@ This factor combines SMA Slope with a Time-Series Ranked transform to test cross
 - Top-quintile turnover: `0.2254`
 - No-lookahead check: `True`
 - Status: `pass`
+
+## License
+
+This factor Skill is licensed under the GNU General Public License v3.0.
+
+Copyright (C) 2026 QuantSkills.

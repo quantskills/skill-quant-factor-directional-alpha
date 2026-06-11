@@ -69,3 +69,9 @@ This factor combines SMA Gap with a Stability Scaled transform to test cross-sec
 - Top-quintile turnover: `0.3465`
 - No-lookahead check: `True`
 - Status: `pass`
+
+## License
+
+This factor Skill is licensed under the GNU General Public License v3.0.
+
+Copyright (C) 2026 QuantSkills.

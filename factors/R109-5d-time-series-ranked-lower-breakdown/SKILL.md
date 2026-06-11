@@ -9,6 +9,8 @@ metadata:
   collection: directional-alpha
   factor_id: R109
   category: Breakout
+  license: GPL-3.0-only
+  copyright: Copyright (C) 2026 QuantSkills
 ---
 
 # 5D Time-Series Ranked Lower Breakdown
