@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194123,
+  "coverage": 0.985721177038109,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.009149142131811037,
+  "ic_std_5d": 0.20357786819345403,
+  "icir_5d": 0.3190546513471309,
+  "ic_observations": 1393,
+  "long_short_mean_5d": 0.0011847636422203259,
+  "long_short_observations": 1393,
+  "turnover_top_quintile": 0.37848860584067845,
+  "factor_id": "R167",
+  "slug": "5d-stability-scaled-skip-period-momentum",
+  "name_cn": "5日稳定度缩放跳期收益动量",
+  "name_en": "5D Stability Scaled Skip-Period Momentum",
+  "category_cn": "动量",
+  "category_en": "Momentum",
+  "base": "skip_return",
+  "transform": "stability",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

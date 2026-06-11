@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195899,
+  "coverage": 0.9947393810140401,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.014881924850848206,
+  "ic_std_5d": 0.2042325936952383,
+  "icir_5d": 0.5173081523417791,
+  "ic_observations": 1405,
+  "long_short_mean_5d": 0.0012948428522080748,
+  "long_short_observations": 1405,
+  "turnover_top_quintile": 0.3368410865217111,
+  "factor_id": "R074",
+  "slug": "5d-smoothed-range-position",
+  "name_cn": "5日平滑区间位置",
+  "name_en": "5D Smoothed Range Position",
+  "category_cn": "通道",
+  "category_en": "Channel",
+  "base": "range_position",
+  "transform": "smooth",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

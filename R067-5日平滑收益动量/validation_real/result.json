@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.009539668514675411,
+  "ic_std_5d": 0.2129635058935028,
+  "icir_5d": 0.31801189485694864,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.0016222874955012113,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.25108379165318667,
+  "factor_id": "R067",
+  "slug": "5d-smoothed-return-momentum",
+  "name_cn": "5日平滑收益动量",
+  "name_en": "5D Smoothed Return Momentum",
+  "category_cn": "动量",
+  "category_en": "Momentum",
+  "base": "return",
+  "transform": "smooth",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

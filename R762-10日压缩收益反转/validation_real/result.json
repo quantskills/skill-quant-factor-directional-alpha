@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194715,
+  "coverage": 0.988727245030086,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.007548331255903752,
+  "ic_std_5d": 0.21000545196835899,
+  "icir_5d": -0.25517354632823197,
+  "ic_observations": 1397,
+  "long_short_mean_5d": -0.0023873659551753752,
+  "long_short_observations": 1397,
+  "turnover_top_quintile": 0.27493564205590176,
+  "factor_id": "R762",
+  "slug": "10d-compressed-return-reversal",
+  "name_cn": "10日压缩收益反转",
+  "name_en": "10D Compressed Return Reversal",
+  "category_cn": "反转",
+  "category_en": "Reversal",
+  "base": "reversal",
+  "transform": "compress",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

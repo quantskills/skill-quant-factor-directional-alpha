@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195751,
+  "coverage": 0.9939878640160459,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0292008218980907,
+  "ic_std_5d": 0.21947858080273464,
+  "icir_5d": 0.9445353151966499,
+  "ic_observations": 1404,
+  "long_short_mean_5d": 0.0013520121547497244,
+  "long_short_observations": 1404,
+  "turnover_top_quintile": 0.3346526342975207,
+  "factor_id": "R075",
+  "slug": "5d-smoothed-upper-breakout",
+  "name_cn": "5日平滑上轨突破",
+  "name_en": "5D Smoothed Upper Breakout",
+  "category_cn": "突破",
+  "category_en": "Breakout",
+  "base": "breakout",
+  "transform": "smooth",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

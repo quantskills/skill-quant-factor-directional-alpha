@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.005450506858987051,
+  "ic_std_5d": 0.1882513408789092,
+  "icir_5d": 0.20554839047977308,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.001631601734378059,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.30658887274738383,
+  "factor_id": "R633",
+  "slug": "10d-time-series-ranked-dual-ema-gap",
+  "name_cn": "10日时序排名双EMA趋势差",
+  "name_en": "10D Time-Series Ranked Dual EMA Gap",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "dual_ema_gap",
+  "transform": "rank",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

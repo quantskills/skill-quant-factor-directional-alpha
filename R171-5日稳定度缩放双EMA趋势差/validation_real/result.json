@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.009981008724789225,
+  "ic_std_5d": 0.2040292697011477,
+  "icir_5d": 0.34729395846874955,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0015276266858045865,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.30662313030734084,
+  "factor_id": "R171",
+  "slug": "5d-stability-scaled-dual-ema-gap",
+  "name_cn": "5日稳定度缩放双EMA趋势差",
+  "name_en": "5D Stability Scaled Dual EMA Gap",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "dual_ema_gap",
+  "transform": "stability",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194712,
+  "coverage": 0.988712011577424,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.01176802060183782,
+  "ic_std_5d": 0.201314091505391,
+  "icir_5d": 0.41499657524630734,
+  "ic_observations": 1397,
+  "long_short_mean_5d": 0.002474224563350538,
+  "long_short_observations": 1397,
+  "turnover_top_quintile": 0.31963756175585645,
+  "factor_id": "R744",
+  "slug": "10d-volume-confirmed-risk-adjusted-trend",
+  "name_cn": "10日量能确认风险调整趋势",
+  "name_en": "10D Volume Confirmed Risk-Adjusted Trend",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "trend_strength",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

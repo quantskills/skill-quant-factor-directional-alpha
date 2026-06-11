@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194419,
+  "coverage": 0.9872242110340975,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.011693671656100907,
+  "ic_std_5d": 0.2012663184477033,
+  "icir_5d": 0.4124725587972995,
+  "ic_observations": 1395,
+  "long_short_mean_5d": 0.0015997765719277625,
+  "long_short_observations": 1395,
+  "turnover_top_quintile": 0.17431606992007273,
+  "factor_id": "R700",
+  "slug": "10d-stability-scaled-sma-slope",
+  "name_cn": "10日稳定度缩放均线斜率",
+  "name_en": "10D Stability Scaled SMA Slope",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "sma_slope",
+  "transform": "stability",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.008416847456622677,
+  "ic_std_5d": 0.2119948862749699,
+  "icir_5d": 0.28186382389038644,
+  "ic_observations": 1399,
+  "long_short_mean_5d": 0.0023145176214710316,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.16475949804531415,
+  "factor_id": "R766",
+  "slug": "10d-compressed-sma-slope",
+  "name_cn": "10日压缩均线斜率",
+  "name_en": "10D Compressed SMA Slope",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "sma_slope",
+  "transform": "compress",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

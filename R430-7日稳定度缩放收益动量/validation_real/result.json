@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194567,
+  "coverage": 0.9879757280320918,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.012310634428225454,
+  "ic_std_5d": 0.20417488779396112,
+  "icir_5d": 0.42804889226994636,
+  "ic_observations": 1396,
+  "long_short_mean_5d": 0.001827908388470656,
+  "long_short_observations": 1396,
+  "turnover_top_quintile": 0.3314790532048597,
+  "factor_id": "R430",
+  "slug": "7d-stability-scaled-return-momentum",
+  "name_cn": "7日稳定度缩放收益动量",
+  "name_en": "7D Stability Scaled Return Momentum",
+  "category_cn": "动量",
+  "category_en": "Momentum",
+  "base": "return",
+  "transform": "stability",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

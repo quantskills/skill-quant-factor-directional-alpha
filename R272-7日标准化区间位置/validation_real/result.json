@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.001525042621075815,
+  "ic_std_5d": 0.1949451629587754,
+  "icir_5d": -0.055537302995221055,
+  "ic_observations": 1401,
+  "long_short_mean_5d": -0.00012662681037986905,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.47154103310686946,
+  "factor_id": "R272",
+  "slug": "7d-z-scored-range-position",
+  "name_cn": "7日标准化区间位置",
+  "name_en": "7D Z-Scored Range Position",
+  "category_cn": "通道",
+  "category_en": "Channel",
+  "base": "range_position",
+  "transform": "z",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194863,
+  "coverage": 0.9894787620280804,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.005121070620199159,
+  "ic_std_5d": 0.1866841500819549,
+  "icir_5d": 0.19474601791754895,
+  "ic_observations": 1398,
+  "long_short_mean_5d": 0.0008230091327502726,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.4252118186141011,
+  "factor_id": "R537",
+  "slug": "10d-z-scored-upper-breakout",
+  "name_cn": "10日标准化上轨突破",
+  "name_en": "10D Z-Scored Upper Breakout",
+  "category_cn": "突破",
+  "category_en": "Breakout",
+  "base": "breakout",
+  "transform": "z",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

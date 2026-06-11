@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.005017521495344163,
+  "ic_std_5d": 0.21155091834908435,
+  "icir_5d": 0.16837964710259176,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0007035372453194034,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.3588411418222319,
+  "factor_id": "R232",
+  "slug": "5d-compressed-return-momentum",
+  "name_cn": "5日压缩收益动量",
+  "name_en": "5D Compressed Return Momentum",
+  "category_cn": "动量",
+  "category_en": "Momentum",
+  "base": "return",
+  "transform": "compress",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.007174984735310664,
+  "ic_std_5d": 0.19580043608769201,
+  "icir_5d": -0.2601492600411304,
+  "ic_observations": 1402,
+  "long_short_mean_5d": -0.0005657698023436844,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.5091125890962634,
+  "factor_id": "R103",
+  "slug": "5d-time-series-ranked-sma-gap",
+  "name_cn": "5日时序排名均线偏离",
+  "name_en": "5D Time-Series Ranked SMA Gap",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "sma_gap",
+  "transform": "rank",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

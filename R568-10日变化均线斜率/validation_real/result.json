@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194715,
+  "coverage": 0.988727245030086,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.0012799368656900578,
+  "ic_std_5d": 0.20560491475702772,
+  "icir_5d": -0.04419471367424022,
+  "ic_observations": 1397,
+  "long_short_mean_5d": 0.0002719252440067997,
+  "long_short_observations": 1397,
+  "turnover_top_quintile": 0.3195401553003266,
+  "factor_id": "R568",
+  "slug": "10d-delta-sma-slope",
+  "name_cn": "10日变化均线斜率",
+  "name_en": "10D Delta SMA Slope",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "sma_slope",
+  "transform": "delta",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

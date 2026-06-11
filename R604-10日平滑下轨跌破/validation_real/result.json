@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0027754020452261706,
+  "ic_std_5d": 0.20378985808428757,
+  "icir_5d": 0.096684889527396,
+  "ic_observations": 1401,
+  "long_short_mean_5d": -0.002313399687149021,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.27288148387792516,
+  "factor_id": "R604",
+  "slug": "10d-smoothed-lower-breakdown",
+  "name_cn": "10日平滑下轨跌破",
+  "name_en": "10D Smoothed Lower Breakdown",
+  "category_cn": "突破",
+  "category_en": "Breakout",
+  "base": "breakdown",
+  "transform": "smooth",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

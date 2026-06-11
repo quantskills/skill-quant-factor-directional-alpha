@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194863,
+  "coverage": 0.9894787620280804,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.007848062925862367,
+  "ic_std_5d": 0.21405349679189675,
+  "icir_5d": 0.26028876206022694,
+  "ic_observations": 1398,
+  "long_short_mean_5d": 0.0020271914773078575,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.14972874248908483,
+  "factor_id": "R601",
+  "slug": "10d-smoothed-sma-slope",
+  "name_cn": "10日平滑均线斜率",
+  "name_en": "10D Smoothed SMA Slope",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "sma_slope",
+  "transform": "smooth",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

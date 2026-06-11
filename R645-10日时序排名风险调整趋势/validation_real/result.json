@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194123,
+  "coverage": 0.985721177038109,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.006205511144990116,
+  "ic_std_5d": 0.18622557507441773,
+  "icir_5d": 0.23656664137998068,
+  "ic_observations": 1393,
+  "long_short_mean_5d": 0.0015871109898511434,
+  "long_short_observations": 1393,
+  "turnover_top_quintile": 0.37589093233235693,
+  "factor_id": "R645",
+  "slug": "10d-time-series-ranked-risk-adjusted-trend",
+  "name_cn": "10日时序排名风险调整趋势",
+  "name_en": "10D Time-Series Ranked Risk-Adjusted Trend",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "trend_strength",
+  "transform": "rank",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

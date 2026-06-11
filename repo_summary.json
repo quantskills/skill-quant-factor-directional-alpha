@@ -1,0 +1,43 @@
+{
+  "repo": "skill-quant-factor-directional-alpha",
+  "factor_count": 296,
+  "id_range": [
+    "R001",
+    "R800"
+  ],
+  "categories": {
+    "Momentum": 50,
+    "Reversal": 25,
+    "Trend": 148,
+    "Channel": 25,
+    "Breakout": 48
+  },
+  "bases": {
+    "return": 25,
+    "skip_return": 25,
+    "reversal": 25,
+    "sma_gap": 25,
+    "ema_gap": 25,
+    "dual_ema_gap": 25,
+    "sma_slope": 25,
+    "range_position": 25,
+    "breakout": 24,
+    "breakdown": 24,
+    "trend_strength": 24,
+    "efficiency": 24
+  },
+  "validation_pass": 296,
+  "markets": {
+    "{\"cn\": 98, \"us\": 50}": 296
+  },
+  "organization": "QuantSkills",
+  "repository": "skill-quant-factor-directional-alpha",
+  "collection": "directional-alpha",
+  "related_repositories": [
+    "skill-quant-factor-directional-alpha",
+    "skill-quant-factor-risk-pattern-alpha",
+    "skill-quant-factor-volume-stat-alpha"
+  ],
+  "organization_url": "https://github.com/quantskills",
+  "github_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+}

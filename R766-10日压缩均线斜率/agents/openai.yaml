@@ -1,0 +1,14 @@
+interface:
+  display_name: "10日压缩均线斜率"
+  short_description: "Real-data validated Trend OHLCV factor."
+  default_prompt: "Use $quant-real-factor-10d-compressed-sma-slope to compute this factor from my OHLCV DataFrame."
+policy:
+  allow_implicit_invocation: true
+metadata:
+  organization: "QuantSkills"
+  organization_url: "https://github.com/quantskills"
+  repository: "skill-quant-factor-directional-alpha"
+  repository_url: "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+  collection: "directional-alpha"
+  factor_id: "R766"
+  category: "Trend"

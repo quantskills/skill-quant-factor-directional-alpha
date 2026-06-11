@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195426,
+  "coverage": 0.9923375733109909,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.009412040131865217,
+  "ic_std_5d": 0.14775170056708375,
+  "icir_5d": 0.45223747783452606,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.000823167573220635,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.47150941339205815,
+  "factor_id": "R250",
+  "slug": "5d-compressed-trend-efficiency",
+  "name_cn": "5日压缩趋势效率",
+  "name_en": "5D Compressed Trend Efficiency",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "efficiency",
+  "transform": "compress",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

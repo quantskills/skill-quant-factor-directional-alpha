@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.008008792319641205,
+  "ic_std_5d": 0.20984968320730427,
+  "icir_5d": 0.270940533843743,
+  "ic_observations": 1399,
+  "long_short_mean_5d": 0.002130735148787399,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.20599257003391003,
+  "factor_id": "R733",
+  "slug": "10d-volume-confirmed-sma-slope",
+  "name_cn": "10日量能确认均线斜率",
+  "name_en": "10D Volume Confirmed SMA Slope",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "sma_slope",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

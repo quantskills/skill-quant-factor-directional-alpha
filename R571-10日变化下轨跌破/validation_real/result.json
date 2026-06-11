@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195159,
+  "coverage": 0.9909817960240689,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.007645381558270574,
+  "ic_std_5d": 0.1998068091020735,
+  "icir_5d": 0.2716465218031319,
+  "ic_observations": 1400,
+  "long_short_mean_5d": 0.0008037561189531084,
+  "long_short_observations": 1400,
+  "turnover_top_quintile": 0.5607682183142184,
+  "factor_id": "R571",
+  "slug": "10d-delta-lower-breakdown",
+  "name_cn": "10日变化下轨跌破",
+  "name_en": "10D Delta Lower Breakdown",
+  "category_cn": "突破",
+  "category_en": "Breakout",
+  "base": "breakdown",
+  "transform": "delta",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

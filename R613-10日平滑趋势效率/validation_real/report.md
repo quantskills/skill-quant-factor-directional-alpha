@@ -1,0 +1,19 @@
+# Real Data Validation Report - 10日平滑趋势效率
+
+| Metric | Value |
+|---|---:|
+| Sample rows | 196935 |
+| Usable rows | 194567 |
+| Coverage | 0.987976 |
+| Markets | {"cn": 98, "us": 50} |
+| 5D Rank IC mean | 0.016251 |
+| 5D Rank IC std | 0.144831 |
+| 5D ICIR | 0.796611 |
+| IC observations | 1396 |
+| Q5-Q1 mean 5D return | 0.001715 |
+| Spread observations | 1396 |
+| Top quintile turnover | 0.242617 |
+| No-lookahead check | True |
+| Status | pass |
+
+This report is computed from cached real OHLCV data in `real_market_data/`.

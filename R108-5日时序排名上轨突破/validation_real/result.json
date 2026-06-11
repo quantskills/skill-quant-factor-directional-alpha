@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.002338042855802687,
+  "ic_std_5d": 0.19324498839851526,
+  "icir_5d": -0.08589334100220967,
+  "ic_observations": 1401,
+  "long_short_mean_5d": -4.903784016565274e-05,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.5387664373931156,
+  "factor_id": "R108",
+  "slug": "5d-time-series-ranked-upper-breakout",
+  "name_cn": "5日时序排名上轨突破",
+  "name_en": "5D Time-Series Ranked Upper Breakout",
+  "category_cn": "突破",
+  "category_en": "Breakout",
+  "base": "breakout",
+  "transform": "rank",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

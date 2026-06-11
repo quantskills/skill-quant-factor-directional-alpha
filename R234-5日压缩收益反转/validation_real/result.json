@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.005017521495344163,
+  "ic_std_5d": 0.21155091834908435,
+  "icir_5d": -0.16837964710259176,
+  "ic_observations": 1402,
+  "long_short_mean_5d": -0.0007102160596700745,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.3676950078294369,
+  "factor_id": "R234",
+  "slug": "5d-compressed-return-reversal",
+  "name_cn": "5日压缩收益反转",
+  "name_en": "5D Compressed Return Reversal",
+  "category_cn": "反转",
+  "category_en": "Reversal",
+  "base": "reversal",
+  "transform": "compress",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

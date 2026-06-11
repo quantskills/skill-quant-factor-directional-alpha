@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194557,
+  "coverage": 0.9879249498565517,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0130529050709744,
+  "ic_std_5d": 0.2015370946750205,
+  "icir_5d": 0.45979839845740156,
+  "ic_observations": 1396,
+  "long_short_mean_5d": 0.001959003932023159,
+  "long_short_observations": 1396,
+  "turnover_top_quintile": 0.34404182376763026,
+  "factor_id": "R447",
+  "slug": "7d-stability-scaled-risk-adjusted-trend",
+  "name_cn": "7日稳定度缩放风险调整趋势",
+  "name_en": "7D Stability Scaled Risk-Adjusted Trend",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "trend_strength",
+  "transform": "stability",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

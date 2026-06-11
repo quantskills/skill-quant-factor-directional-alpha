@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194120,
+  "coverage": 0.9857059435854469,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.01210088043915519,
+  "ic_std_5d": 0.2009175305996413,
+  "icir_5d": 0.427577069517812,
+  "ic_observations": 1393,
+  "long_short_mean_5d": 0.0020423007175525776,
+  "long_short_observations": 1393,
+  "turnover_top_quintile": 0.298397841186297,
+  "factor_id": "R711",
+  "slug": "10d-stability-scaled-risk-adjusted-trend",
+  "name_cn": "10日稳定度缩放风险调整趋势",
+  "name_en": "10D Stability Scaled Risk-Adjusted Trend",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "trend_strength",
+  "transform": "stability",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

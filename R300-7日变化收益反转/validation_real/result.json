@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.01003723934227084,
+  "ic_std_5d": 0.21756008456407963,
+  "icir_5d": 0.3275294300602313,
+  "ic_observations": 1399,
+  "long_short_mean_5d": 0.000726666549991126,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.7739270826583727,
+  "factor_id": "R300",
+  "slug": "7d-delta-return-reversal",
+  "name_cn": "7日变化收益反转",
+  "name_en": "7D Delta Return Reversal",
+  "category_cn": "反转",
+  "category_en": "Reversal",
+  "base": "reversal",
+  "transform": "delta",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

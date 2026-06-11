@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.018936412920678117,
+  "ic_std_5d": 0.19737831652299326,
+  "icir_5d": 0.6811041756842595,
+  "ic_observations": 1399,
+  "long_short_mean_5d": 0.0021730113603116805,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.3959621158124365,
+  "factor_id": "R701",
+  "slug": "10d-stability-scaled-range-position",
+  "name_cn": "10日稳定度缩放区间位置",
+  "name_en": "10D Stability Scaled Range Position",
+  "category_cn": "通道",
+  "category_en": "Channel",
+  "base": "range_position",
+  "transform": "stability",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

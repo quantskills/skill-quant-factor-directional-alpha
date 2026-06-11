@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194715,
+  "coverage": 0.988727245030086,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.014283269872906757,
+  "ic_std_5d": 0.20454638897943553,
+  "icir_5d": 0.49573672487655573,
+  "ic_observations": 1397,
+  "long_short_mean_5d": 0.002702074736274606,
+  "long_short_observations": 1397,
+  "turnover_top_quintile": 0.27547944809320163,
+  "factor_id": "R661",
+  "slug": "10d-volatility-scaled-return-momentum",
+  "name_cn": "10日波动缩放收益动量",
+  "name_en": "10D Volatility Scaled Return Momentum",
+  "category_cn": "动量",
+  "category_en": "Momentum",
+  "base": "return",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

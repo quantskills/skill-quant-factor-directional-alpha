@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.017241239508274445,
+  "ic_std_5d": 0.21032402367941908,
+  "icir_5d": 0.5819623267342157,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0002561024272753051,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.5295003228897588,
+  "factor_id": "R207",
+  "slug": "5d-volume-confirmed-upper-breakout",
+  "name_cn": "5日量能确认上轨突破",
+  "name_en": "5D Volume Confirmed Upper Breakout",
+  "category_cn": "突破",
+  "category_en": "Breakout",
+  "base": "breakout",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

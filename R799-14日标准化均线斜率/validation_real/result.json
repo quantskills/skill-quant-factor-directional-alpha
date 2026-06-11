@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194123,
+  "coverage": 0.985721177038109,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.024485608433960682,
+  "ic_std_5d": 0.19675643517217298,
+  "icir_5d": 0.8834810179781228,
+  "ic_observations": 1393,
+  "long_short_mean_5d": 0.003850267884299588,
+  "long_short_observations": 1393,
+  "turnover_top_quintile": 0.15940326674041777,
+  "factor_id": "R799",
+  "slug": "14d-z-scored-sma-slope",
+  "name_cn": "14日标准化均线斜率",
+  "name_en": "14D Z-Scored SMA Slope",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "sma_slope",
+  "transform": "z",
+  "params": {
+    "window": 14,
+    "norm": 28,
+    "lag": 2,
+    "smooth": 4,
+    "skip": 5,
+    "fast": 4,
+    "slow": 14
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

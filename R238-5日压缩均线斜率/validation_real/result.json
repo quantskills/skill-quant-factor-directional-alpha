@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.012046508675326488,
+  "ic_std_5d": 0.21439451946612004,
+  "icir_5d": 0.39889885212646253,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0017851941170900093,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.22783956205008835,
+  "factor_id": "R238",
+  "slug": "5d-compressed-sma-slope",
+  "name_cn": "5日压缩均线斜率",
+  "name_en": "5D Compressed SMA Slope",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "sma_slope",
+  "transform": "compress",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

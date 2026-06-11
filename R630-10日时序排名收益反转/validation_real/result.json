@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194123,
+  "coverage": 0.985721177038109,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.006625202648536988,
+  "ic_std_5d": 0.18629593138894268,
+  "icir_5d": -0.2524707468749846,
+  "ic_observations": 1393,
+  "long_short_mean_5d": -0.0010224561044224526,
+  "long_short_observations": 1393,
+  "turnover_top_quintile": 0.36883093599666444,
+  "factor_id": "R630",
+  "slug": "10d-time-series-ranked-return-reversal",
+  "name_cn": "10日时序排名收益反转",
+  "name_en": "10D Time-Series Ranked Return Reversal",
+  "category_cn": "反转",
+  "category_en": "Reversal",
+  "base": "reversal",
+  "transform": "rank",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

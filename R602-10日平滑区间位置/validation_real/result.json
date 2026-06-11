@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.021398968040297856,
+  "ic_std_5d": 0.20325798100324668,
+  "icir_5d": 0.7474127308214016,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0023356240573776618,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.2561457390404759,
+  "factor_id": "R602",
+  "slug": "10d-smoothed-range-position",
+  "name_cn": "10日平滑区间位置",
+  "name_en": "10D Smoothed Range Position",
+  "category_cn": "通道",
+  "category_en": "Channel",
+  "base": "range_position",
+  "transform": "smooth",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

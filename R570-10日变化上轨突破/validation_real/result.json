@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195159,
+  "coverage": 0.9909817960240689,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.0055542950266754074,
+  "ic_std_5d": 0.1962757023703583,
+  "icir_5d": -0.20089895256427387,
+  "ic_observations": 1400,
+  "long_short_mean_5d": -0.0007188665175424535,
+  "long_short_observations": 1400,
+  "turnover_top_quintile": 0.5770075022067978,
+  "factor_id": "R570",
+  "slug": "10d-delta-upper-breakout",
+  "name_cn": "10日变化上轨突破",
+  "name_en": "10D Delta Upper Breakout",
+  "category_cn": "突破",
+  "category_en": "Breakout",
+  "base": "breakout",
+  "transform": "delta",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195899,
+  "coverage": 0.9947393810140401,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0051529815295116976,
+  "ic_std_5d": 0.2123076336887832,
+  "icir_5d": 0.17230911194150164,
+  "ic_observations": 1405,
+  "long_short_mean_5d": 0.0014380069567015575,
+  "long_short_observations": 1405,
+  "turnover_top_quintile": 0.3391175774781169,
+  "factor_id": "R764",
+  "slug": "10d-compressed-ema-gap",
+  "name_cn": "10日压缩EMA偏离",
+  "name_en": "10D Compressed EMA Gap",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "ema_gap",
+  "transform": "compress",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

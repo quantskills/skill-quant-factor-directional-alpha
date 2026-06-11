@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.006647049183177062,
+  "ic_std_5d": 0.20865852713316266,
+  "icir_5d": 0.22615595248460482,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.001716438765348709,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.28889427322263145,
+  "factor_id": "R468",
+  "slug": "7d-volume-confirmed-dual-ema-gap",
+  "name_cn": "7日量能确认双EMA趋势差",
+  "name_en": "7D Volume Confirmed Dual EMA Gap",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "dual_ema_gap",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

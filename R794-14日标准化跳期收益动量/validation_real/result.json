@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 192791,
+  "coverage": 0.9789575240561607,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.019235509330991364,
+  "ic_std_5d": 0.20186910817707504,
+  "icir_5d": 0.6764708611337221,
+  "ic_observations": 1384,
+  "long_short_mean_5d": 0.003043501417624185,
+  "long_short_observations": 1384,
+  "turnover_top_quintile": 0.28557222076674527,
+  "factor_id": "R794",
+  "slug": "14d-z-scored-skip-period-momentum",
+  "name_cn": "14日标准化跳期收益动量",
+  "name_en": "14D Z-Scored Skip-Period Momentum",
+  "category_cn": "动量",
+  "category_en": "Momentum",
+  "base": "skip_return",
+  "transform": "z",
+  "params": {
+    "window": 14,
+    "norm": 28,
+    "lag": 2,
+    "smooth": 4,
+    "skip": 5,
+    "fast": 4,
+    "slow": 14
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

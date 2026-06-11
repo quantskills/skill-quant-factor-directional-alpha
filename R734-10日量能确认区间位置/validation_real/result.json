@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.011864823378647249,
+  "ic_std_5d": 0.19872077147670872,
+  "icir_5d": 0.42387058704845904,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0018825167852714495,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.4362634877560251,
+  "factor_id": "R734",
+  "slug": "10d-volume-confirmed-range-position",
+  "name_cn": "10日量能确认区间位置",
+  "name_en": "10D Volume Confirmed Range Position",
+  "category_cn": "通道",
+  "category_en": "Channel",
+  "base": "range_position",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

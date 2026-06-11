@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194123,
+  "coverage": 0.985721177038109,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.007170585648980598,
+  "ic_std_5d": 0.1911434996009729,
+  "icir_5d": 0.2663240353732799,
+  "ic_observations": 1393,
+  "long_short_mean_5d": 0.0013990081664239493,
+  "long_short_observations": 1393,
+  "turnover_top_quintile": 0.42363336115260164,
+  "factor_id": "R101",
+  "slug": "5d-time-series-ranked-skip-period-momentum",
+  "name_cn": "5日时序排名跳期收益动量",
+  "name_en": "5D Time-Series Ranked Skip-Period Momentum",
+  "category_cn": "动量",
+  "category_en": "Momentum",
+  "base": "skip_return",
+  "transform": "rank",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.016881196212782393,
+  "ic_std_5d": 0.1986010899756828,
+  "icir_5d": 0.6034438399580271,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.002198441772871531,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.4290107938584316,
+  "factor_id": "R669",
+  "slug": "10d-volatility-scaled-upper-breakout",
+  "name_cn": "10日波动缩放上轨突破",
+  "name_en": "10D Volatility Scaled Upper Breakout",
+  "category_cn": "突破",
+  "category_en": "Breakout",
+  "base": "breakout",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

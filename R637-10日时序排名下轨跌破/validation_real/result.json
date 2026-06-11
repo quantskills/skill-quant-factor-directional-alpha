@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194863,
+  "coverage": 0.9894787620280804,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.004531881489100156,
+  "ic_std_5d": 0.18829533105390267,
+  "icir_5d": -0.17086545252294372,
+  "ic_observations": 1398,
+  "long_short_mean_5d": -0.0008699546434294197,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.44023040860806417,
+  "factor_id": "R637",
+  "slug": "10d-time-series-ranked-lower-breakdown",
+  "name_cn": "10日时序排名下轨跌破",
+  "name_en": "10D Time-Series Ranked Lower Breakdown",
+  "category_cn": "突破",
+  "category_en": "Breakout",
+  "base": "breakdown",
+  "transform": "rank",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

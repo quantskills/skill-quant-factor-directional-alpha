@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194123,
+  "coverage": 0.985721177038109,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.012510372458704231,
+  "ic_std_5d": 0.2028881632824161,
+  "icir_5d": 0.4377526636423595,
+  "ic_observations": 1393,
+  "long_short_mean_5d": 0.002163476503818672,
+  "long_short_observations": 1393,
+  "turnover_top_quintile": 0.29150758820183925,
+  "factor_id": "R694",
+  "slug": "10d-stability-scaled-return-momentum",
+  "name_cn": "10日稳定度缩放收益动量",
+  "name_en": "10D Stability Scaled Return Momentum",
+  "category_cn": "动量",
+  "category_en": "Momentum",
+  "base": "return",
+  "transform": "stability",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

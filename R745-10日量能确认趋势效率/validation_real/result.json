@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194712,
+  "coverage": 0.988712011577424,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.015236536894108374,
+  "ic_std_5d": 0.1463172054267985,
+  "icir_5d": 0.7392752010599275,
+  "ic_observations": 1397,
+  "long_short_mean_5d": 0.002043285990294751,
+  "long_short_observations": 1397,
+  "turnover_top_quintile": 0.423336145177687,
+  "factor_id": "R745",
+  "slug": "10d-volume-confirmed-trend-efficiency",
+  "name_cn": "10日量能确认趋势效率",
+  "name_en": "10D Volume Confirmed Trend Efficiency",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "efficiency",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

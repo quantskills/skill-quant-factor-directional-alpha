@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.02040942968520966,
+  "ic_std_5d": 0.2102540136670314,
+  "icir_5d": 0.6891310880931552,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0005649716066579181,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.48095229780878784,
+  "factor_id": "R471",
+  "slug": "7d-volume-confirmed-upper-breakout",
+  "name_cn": "7日量能确认上轨突破",
+  "name_en": "7D Volume Confirmed Upper Breakout",
+  "category_cn": "突破",
+  "category_en": "Breakout",
+  "base": "breakout",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

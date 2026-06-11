@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.0035254600394083947,
+  "ic_std_5d": 0.208962006268314,
+  "icir_5d": -0.11977432589437512,
+  "ic_observations": 1402,
+  "long_short_mean_5d": -0.0010869753335065989,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.3877367275142658,
+  "factor_id": "R201",
+  "slug": "5d-volume-confirmed-return-reversal",
+  "name_cn": "5日量能确认收益反转",
+  "name_en": "5D Volume Confirmed Return Reversal",
+  "category_cn": "反转",
+  "category_en": "Reversal",
+  "base": "reversal",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

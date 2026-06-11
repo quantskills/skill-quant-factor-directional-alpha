@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.006708972795516483,
+  "ic_std_5d": 0.20516442767639317,
+  "icir_5d": 0.2321502929359171,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.0011277008880845635,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.4206966461770732,
+  "factor_id": "R434",
+  "slug": "7d-stability-scaled-ema-gap",
+  "name_cn": "7日稳定度缩放EMA偏离",
+  "name_en": "7D Stability Scaled EMA Gap",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "ema_gap",
+  "transform": "stability",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

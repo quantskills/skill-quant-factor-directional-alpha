@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194567,
+  "coverage": 0.9879757280320918,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.01719847439613285,
+  "ic_std_5d": 0.20460948017288103,
+  "icir_5d": 0.596732154868767,
+  "ic_observations": 1396,
+  "long_short_mean_5d": 0.00286207737338856,
+  "long_short_observations": 1396,
+  "turnover_top_quintile": 0.1891212121212121,
+  "factor_id": "R612",
+  "slug": "10d-smoothed-risk-adjusted-trend",
+  "name_cn": "10日平滑风险调整趋势",
+  "name_en": "10D Smoothed Risk-Adjusted Trend",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "trend_strength",
+  "transform": "smooth",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

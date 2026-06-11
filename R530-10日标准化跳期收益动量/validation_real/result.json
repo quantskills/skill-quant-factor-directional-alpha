@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 193383,
+  "coverage": 0.9819635920481377,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.008136712609266988,
+  "ic_std_5d": 0.19540052659124033,
+  "icir_5d": 0.2956232010731999,
+  "ic_observations": 1388,
+  "long_short_mean_5d": 0.0016047966129203448,
+  "long_short_observations": 1388,
+  "turnover_top_quintile": 0.33471786833855804,
+  "factor_id": "R530",
+  "slug": "10d-z-scored-skip-period-momentum",
+  "name_cn": "10日标准化跳期收益动量",
+  "name_en": "10D Z-Scored Skip-Period Momentum",
+  "category_cn": "动量",
+  "category_en": "Momentum",
+  "base": "skip_return",
+  "transform": "z",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

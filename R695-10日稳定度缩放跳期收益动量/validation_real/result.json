@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 193383,
+  "coverage": 0.9819635920481377,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.004064755487118306,
+  "ic_std_5d": 0.20295959487796264,
+  "icir_5d": 0.14218052282796462,
+  "ic_observations": 1388,
+  "long_short_mean_5d": 0.000929297386397961,
+  "long_short_observations": 1388,
+  "turnover_top_quintile": 0.2884179872778315,
+  "factor_id": "R695",
+  "slug": "10d-stability-scaled-skip-period-momentum",
+  "name_cn": "10日稳定度缩放跳期收益动量",
+  "name_en": "10D Stability Scaled Skip-Period Momentum",
+  "category_cn": "动量",
+  "category_en": "Momentum",
+  "base": "skip_return",
+  "transform": "stability",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

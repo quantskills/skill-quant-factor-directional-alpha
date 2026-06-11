@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194715,
+  "coverage": 0.988727245030086,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.011049502267308102,
+  "ic_std_5d": 0.19127283302216383,
+  "icir_5d": 0.4101140926962278,
+  "ic_observations": 1397,
+  "long_short_mean_5d": 0.0020627559152267823,
+  "long_short_observations": 1397,
+  "turnover_top_quintile": 0.22274025047044319,
+  "factor_id": "R271",
+  "slug": "7d-z-scored-sma-slope",
+  "name_cn": "7日标准化均线斜率",
+  "name_en": "7D Z-Scored SMA Slope",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "sma_slope",
+  "transform": "z",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

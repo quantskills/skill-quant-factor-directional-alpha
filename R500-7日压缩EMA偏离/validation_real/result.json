@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195899,
+  "coverage": 0.9947393810140401,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0028841938270967576,
+  "ic_std_5d": 0.21175384666630537,
+  "icir_5d": 0.09669597634984328,
+  "ic_observations": 1405,
+  "long_short_mean_5d": 0.0007851459816199436,
+  "long_short_observations": 1405,
+  "turnover_top_quintile": 0.395068499042949,
+  "factor_id": "R500",
+  "slug": "7d-compressed-ema-gap",
+  "name_cn": "7日压缩EMA偏离",
+  "name_en": "7D Compressed EMA Gap",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "ema_gap",
+  "transform": "compress",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

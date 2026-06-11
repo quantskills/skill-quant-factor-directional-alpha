@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194863,
+  "coverage": 0.9894787620280804,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.00800062188932246,
+  "ic_std_5d": 0.20398237281499443,
+  "icir_5d": -0.27844945673560006,
+  "ic_observations": 1398,
+  "long_short_mean_5d": -0.0013563003047720385,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.38802578875772237,
+  "factor_id": "R168",
+  "slug": "5d-stability-scaled-return-reversal",
+  "name_cn": "5日稳定度缩放收益反转",
+  "name_en": "5D Stability Scaled Return Reversal",
+  "category_cn": "反转",
+  "category_en": "Reversal",
+  "base": "reversal",
+  "transform": "stability",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

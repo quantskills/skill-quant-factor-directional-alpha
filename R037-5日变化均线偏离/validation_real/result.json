@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195899,
+  "coverage": 0.9947393810140401,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.00932540436218286,
+  "ic_std_5d": 0.21487506483215982,
+  "icir_5d": -0.3081037044075774,
+  "ic_observations": 1405,
+  "long_short_mean_5d": -0.0007269879787546532,
+  "long_short_observations": 1405,
+  "turnover_top_quintile": 0.7920801342022066,
+  "factor_id": "R037",
+  "slug": "5d-delta-sma-gap",
+  "name_cn": "5日变化均线偏离",
+  "name_en": "5D Delta SMA Gap",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "sma_gap",
+  "transform": "delta",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

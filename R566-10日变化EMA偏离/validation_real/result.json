@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.011317491819969386,
+  "ic_std_5d": 0.207307058380128,
+  "icir_5d": -0.3875710846009535,
+  "ic_observations": 1403,
+  "long_short_mean_5d": -0.0011037116215455531,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.5935947965798712,
+  "factor_id": "R566",
+  "slug": "10d-delta-ema-gap",
+  "name_cn": "10日变化EMA偏离",
+  "name_en": "10D Delta EMA Gap",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "ema_gap",
+  "transform": "delta",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

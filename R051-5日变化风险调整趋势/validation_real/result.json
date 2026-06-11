@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195264,
+  "coverage": 0.9915149668672405,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.008509401641412997,
+  "ic_std_5d": 0.1975925464653403,
+  "icir_5d": -0.3057339960495038,
+  "ic_observations": 1401,
+  "long_short_mean_5d": -0.000719367014400706,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.8096634697334962,
+  "factor_id": "R051",
+  "slug": "5d-delta-risk-adjusted-trend",
+  "name_cn": "5日变化风险调整趋势",
+  "name_en": "5D Delta Risk-Adjusted Trend",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "trend_strength",
+  "transform": "delta",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

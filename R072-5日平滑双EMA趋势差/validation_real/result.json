@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195899,
+  "coverage": 0.9947393810140401,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.010238598701429695,
+  "ic_std_5d": 0.2123084340260959,
+  "icir_5d": 0.3423643553078233,
+  "ic_observations": 1405,
+  "long_short_mean_5d": 0.0019490447566632276,
+  "long_short_observations": 1405,
+  "turnover_top_quintile": 0.21619781921414286,
+  "factor_id": "R072",
+  "slug": "5d-smoothed-dual-ema-gap",
+  "name_cn": "5日平滑双EMA趋势差",
+  "name_en": "5D Smoothed Dual EMA Gap",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "dual_ema_gap",
+  "transform": "smooth",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

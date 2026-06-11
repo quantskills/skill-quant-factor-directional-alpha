@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.008316602142536537,
+  "ic_std_5d": 0.20601735172694488,
+  "icir_5d": 0.2865875988819924,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.001241254926076179,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.3714116839504698,
+  "factor_id": "R133",
+  "slug": "5d-volatility-scaled-return-momentum",
+  "name_cn": "5日波动缩放收益动量",
+  "name_en": "5D Volatility Scaled Return Momentum",
+  "category_cn": "动量",
+  "category_en": "Momentum",
+  "base": "return",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

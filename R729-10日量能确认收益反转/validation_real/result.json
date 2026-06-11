@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194715,
+  "coverage": 0.988727245030086,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.0071110931125578265,
+  "ic_std_5d": 0.20797875817900088,
+  "icir_5d": -0.24273514026505022,
+  "ic_observations": 1397,
+  "long_short_mean_5d": -0.002380941587045081,
+  "long_short_observations": 1397,
+  "turnover_top_quintile": 0.30609918045850903,
+  "factor_id": "R729",
+  "slug": "10d-volume-confirmed-return-reversal",
+  "name_cn": "10日量能确认收益反转",
+  "name_en": "10D Volume Confirmed Return Reversal",
+  "category_cn": "反转",
+  "category_en": "Reversal",
+  "base": "reversal",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

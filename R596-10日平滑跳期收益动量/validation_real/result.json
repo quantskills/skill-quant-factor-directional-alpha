@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 193827,
+  "coverage": 0.9842181430421205,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0012974800783092512,
+  "ic_std_5d": 0.2179852564386468,
+  "icir_5d": 0.04225604493992182,
+  "ic_observations": 1391,
+  "long_short_mean_5d": 0.0010960904788017483,
+  "long_short_observations": 1391,
+  "turnover_top_quintile": 0.17734875638101444,
+  "factor_id": "R596",
+  "slug": "10d-smoothed-skip-period-momentum",
+  "name_cn": "10日平滑跳期收益动量",
+  "name_en": "10D Smoothed Skip-Period Momentum",
+  "category_cn": "动量",
+  "category_en": "Momentum",
+  "base": "skip_return",
+  "transform": "smooth",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194833,
+  "coverage": 0.9893264275014598,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.004669054111039787,
+  "ic_std_5d": 0.1469098087984951,
+  "icir_5d": 0.22562820161647582,
+  "ic_observations": 1398,
+  "long_short_mean_5d": 3.0204687276247256e-05,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.5001437340595686,
+  "factor_id": "R019",
+  "slug": "5d-z-scored-trend-efficiency",
+  "name_cn": "5日标准化趋势效率",
+  "name_en": "5D Z-Scored Trend Efficiency",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "efficiency",
+  "transform": "z",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

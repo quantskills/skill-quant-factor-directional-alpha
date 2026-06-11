@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.018563999338001024,
+  "ic_std_5d": 0.2052482906146649,
+  "icir_5d": 0.6421067918166163,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.0025053821244380575,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.20153024911032028,
+  "factor_id": "R403",
+  "slug": "7d-volatility-scaled-sma-slope",
+  "name_cn": "7日波动缩放均线斜率",
+  "name_en": "7D Volatility Scaled SMA Slope",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "sma_slope",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

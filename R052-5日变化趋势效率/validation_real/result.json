@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195264,
+  "coverage": 0.9915149668672405,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.0012663447024991402,
+  "ic_std_5d": 0.14452676322731997,
+  "icir_5d": -0.062204088368936365,
+  "ic_observations": 1401,
+  "long_short_mean_5d": -0.0002662340554517634,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.8859035451298107,
+  "factor_id": "R052",
+  "slug": "5d-delta-trend-efficiency",
+  "name_cn": "5日变化趋势效率",
+  "name_en": "5D Delta Trend Efficiency",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "efficiency",
+  "transform": "delta",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

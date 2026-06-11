@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194863,
+  "coverage": 0.9894787620280804,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0038983903084248944,
+  "ic_std_5d": 0.14413587851689727,
+  "icir_5d": 0.19201205135833208,
+  "ic_observations": 1398,
+  "long_short_mean_5d": 0.00035065509567108885,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.5115761890051896,
+  "factor_id": "R118",
+  "slug": "5d-time-series-ranked-trend-efficiency",
+  "name_cn": "5日时序排名趋势效率",
+  "name_en": "5D Time-Series Ranked Trend Efficiency",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "efficiency",
+  "transform": "rank",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

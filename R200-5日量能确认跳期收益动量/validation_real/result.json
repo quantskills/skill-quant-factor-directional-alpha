@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194715,
+  "coverage": 0.988727245030086,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.006005082475705544,
+  "ic_std_5d": 0.21048986685646473,
+  "icir_5d": 0.20253638368972862,
+  "ic_observations": 1397,
+  "long_short_mean_5d": 0.0013795951385002277,
+  "long_short_observations": 1397,
+  "turnover_top_quintile": 0.3738967939595332,
+  "factor_id": "R200",
+  "slug": "5d-volume-confirmed-skip-period-momentum",
+  "name_cn": "5日量能确认跳期收益动量",
+  "name_en": "5D Volume Confirmed Skip-Period Momentum",
+  "category_cn": "动量",
+  "category_en": "Momentum",
+  "base": "skip_return",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194120,
+  "coverage": 0.9857059435854469,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.013350354612120658,
+  "ic_std_5d": 0.14012903039400057,
+  "icir_5d": 0.6763631729634167,
+  "ic_observations": 1393,
+  "long_short_mean_5d": 0.0009353037057079507,
+  "long_short_observations": 1393,
+  "turnover_top_quintile": 0.4013568035400534,
+  "factor_id": "R712",
+  "slug": "10d-stability-scaled-trend-efficiency",
+  "name_cn": "10日稳定度缩放趋势效率",
+  "name_en": "10D Stability Scaled Trend Efficiency",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "efficiency",
+  "transform": "stability",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

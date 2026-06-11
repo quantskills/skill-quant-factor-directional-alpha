@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.016582317640296905,
+  "ic_std_5d": 0.19957518993735998,
+  "icir_5d": 0.5898667916357,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0020577157130616383,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.4195049440821069,
+  "factor_id": "R767",
+  "slug": "10d-compressed-range-position",
+  "name_cn": "10日压缩区间位置",
+  "name_en": "10D Compressed Range Position",
+  "category_cn": "通道",
+  "category_en": "Channel",
+  "base": "range_position",
+  "transform": "compress",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

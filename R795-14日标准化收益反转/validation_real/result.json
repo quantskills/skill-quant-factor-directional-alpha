@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 193531,
+  "coverage": 0.982715109046132,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.019853500257783045,
+  "ic_std_5d": 0.19714788300556207,
+  "icir_5d": -0.7149245918842734,
+  "ic_observations": 1389,
+  "long_short_mean_5d": -0.003042911063816434,
+  "long_short_observations": 1389,
+  "turnover_top_quintile": 0.2849974983140812,
+  "factor_id": "R795",
+  "slug": "14d-z-scored-return-reversal",
+  "name_cn": "14日标准化收益反转",
+  "name_en": "14D Z-Scored Return Reversal",
+  "category_cn": "反转",
+  "category_en": "Reversal",
+  "base": "reversal",
+  "transform": "z",
+  "params": {
+    "window": 14,
+    "norm": 28,
+    "lag": 2,
+    "smooth": 4,
+    "skip": 5,
+    "fast": 4,
+    "slow": 14
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

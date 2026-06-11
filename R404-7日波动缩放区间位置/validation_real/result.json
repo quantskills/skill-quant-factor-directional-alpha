@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.015258562011615299,
+  "ic_std_5d": 0.18568220057634605,
+  "icir_5d": 0.5833894899299592,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0015014841622498665,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.40043967412388465,
+  "factor_id": "R404",
+  "slug": "7d-volatility-scaled-range-position",
+  "name_cn": "7日波动缩放区间位置",
+  "name_en": "7D Volatility Scaled Range Position",
+  "category_cn": "通道",
+  "category_en": "Channel",
+  "base": "range_position",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

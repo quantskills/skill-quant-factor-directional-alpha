@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194863,
+  "coverage": 0.9894787620280804,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.002449307580328172,
+  "ic_std_5d": 0.19395037093729325,
+  "icir_5d": -0.08965365101523036,
+  "ic_observations": 1398,
+  "long_short_mean_5d": 0.0002042147871666546,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.4389345357674115,
+  "factor_id": "R117",
+  "slug": "5d-time-series-ranked-risk-adjusted-trend",
+  "name_cn": "5日时序排名风险调整趋势",
+  "name_en": "5D Time-Series Ranked Risk-Adjusted Trend",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "trend_strength",
+  "transform": "rank",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

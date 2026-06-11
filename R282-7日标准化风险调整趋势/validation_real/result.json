@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194557,
+  "coverage": 0.9879249498565517,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.005170156008096266,
+  "ic_std_5d": 0.19383515505273655,
+  "icir_5d": 0.189359182610487,
+  "ic_observations": 1396,
+  "long_short_mean_5d": 0.0009908995182117098,
+  "long_short_observations": 1396,
+  "turnover_top_quintile": 0.37096645021645025,
+  "factor_id": "R282",
+  "slug": "7d-z-scored-risk-adjusted-trend",
+  "name_cn": "7日标准化风险调整趋势",
+  "name_en": "7D Z-Scored Risk-Adjusted Trend",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "trend_strength",
+  "transform": "z",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

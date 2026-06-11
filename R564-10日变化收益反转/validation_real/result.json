@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194419,
+  "coverage": 0.9872242110340975,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0062381736756994405,
+  "ic_std_5d": 0.20452009794132137,
+  "icir_5d": 0.21653930467131818,
+  "ic_observations": 1395,
+  "long_short_mean_5d": 0.0001519830858986414,
+  "long_short_observations": 1395,
+  "turnover_top_quintile": 0.5510332055364221,
+  "factor_id": "R564",
+  "slug": "10d-delta-return-reversal",
+  "name_cn": "10日变化收益反转",
+  "name_en": "10D Delta Return Reversal",
+  "category_cn": "反转",
+  "category_en": "Reversal",
+  "base": "reversal",
+  "transform": "delta",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0142361032553471,
+  "ic_std_5d": 0.19738283830378897,
+  "icir_5d": 0.5120318871661147,
+  "ic_observations": 1399,
+  "long_short_mean_5d": 0.002314296825193481,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.31831465042441526,
+  "factor_id": "R796",
+  "slug": "14d-z-scored-sma-gap",
+  "name_cn": "14日标准化均线偏离",
+  "name_en": "14D Z-Scored SMA Gap",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "sma_gap",
+  "transform": "z",
+  "params": {
+    "window": 14,
+    "norm": 28,
+    "lag": 2,
+    "smooth": 4,
+    "skip": 5,
+    "fast": 4,
+    "slow": 14
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

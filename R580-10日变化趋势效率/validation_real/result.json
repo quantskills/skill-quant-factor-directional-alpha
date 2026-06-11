@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194414,
+  "coverage": 0.9871988219463275,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.004909551648056891,
+  "ic_std_5d": 0.1450115479181335,
+  "icir_5d": -0.24035574821020744,
+  "ic_observations": 1395,
+  "long_short_mean_5d": -0.0008679659989900395,
+  "long_short_observations": 1395,
+  "turnover_top_quintile": 0.6206023783221782,
+  "factor_id": "R580",
+  "slug": "10d-delta-trend-efficiency",
+  "name_cn": "10日变化趋势效率",
+  "name_en": "10D Delta Trend Efficiency",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "efficiency",
+  "transform": "delta",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194715,
+  "coverage": 0.988727245030086,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.005827117286107829,
+  "ic_std_5d": 0.21340153074727408,
+  "icir_5d": 0.193852540697578,
+  "ic_observations": 1397,
+  "long_short_mean_5d": 0.001332333992465598,
+  "long_short_observations": 1397,
+  "turnover_top_quintile": 0.35625117176650767,
+  "factor_id": "R233",
+  "slug": "5d-compressed-skip-period-momentum",
+  "name_cn": "5日压缩跳期收益动量",
+  "name_en": "5D Compressed Skip-Period Momentum",
+  "category_cn": "动量",
+  "category_en": "Momentum",
+  "base": "skip_return",
+  "transform": "compress",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

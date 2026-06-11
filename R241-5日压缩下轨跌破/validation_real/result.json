@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195899,
+  "coverage": 0.9947393810140401,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.008860453299488457,
+  "ic_std_5d": 0.20537093683658886,
+  "icir_5d": 0.30628958181699034,
+  "ic_observations": 1405,
+  "long_short_mean_5d": -0.0010365232100677183,
+  "long_short_observations": 1405,
+  "turnover_top_quintile": 0.5153859595039821,
+  "factor_id": "R241",
+  "slug": "5d-compressed-lower-breakdown",
+  "name_cn": "5日压缩下轨跌破",
+  "name_en": "5D Compressed Lower Breakdown",
+  "category_cn": "突破",
+  "category_en": "Breakout",
+  "base": "breakdown",
+  "transform": "compress",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

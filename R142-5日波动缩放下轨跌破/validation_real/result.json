@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.006441638931190214,
+  "ic_std_5d": 0.20020633670109808,
+  "icir_5d": -0.22841984212160749,
+  "ic_observations": 1402,
+  "long_short_mean_5d": -0.0011872092807641034,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.5145909058701222,
+  "factor_id": "R142",
+  "slug": "5d-volatility-scaled-lower-breakdown",
+  "name_cn": "5日波动缩放下轨跌破",
+  "name_en": "5D Volatility Scaled Lower Breakdown",
+  "category_cn": "突破",
+  "category_en": "Breakout",
+  "base": "breakdown",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.009415517805561784,
+  "ic_std_5d": 0.20612737160670536,
+  "icir_5d": 0.3242827234600211,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.0014391244406759072,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.3664714763291276,
+  "factor_id": "R698",
+  "slug": "10d-stability-scaled-ema-gap",
+  "name_cn": "10日稳定度缩放EMA偏离",
+  "name_en": "10D Stability Scaled EMA Gap",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "ema_gap",
+  "transform": "stability",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

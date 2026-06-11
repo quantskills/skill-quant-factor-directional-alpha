@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194567,
+  "coverage": 0.9879757280320918,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.008647987943397417,
+  "ic_std_5d": 0.2117501631195775,
+  "icir_5d": -0.289938968920827,
+  "ic_observations": 1396,
+  "long_short_mean_5d": -0.002521815119067127,
+  "long_short_observations": 1396,
+  "turnover_top_quintile": 0.18709848484848482,
+  "factor_id": "R597",
+  "slug": "10d-smoothed-return-reversal",
+  "name_cn": "10日平滑收益反转",
+  "name_en": "10D Smoothed Return Reversal",
+  "category_cn": "反转",
+  "category_en": "Reversal",
+  "base": "reversal",
+  "transform": "smooth",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

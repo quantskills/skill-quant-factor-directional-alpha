@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.012589490323689358,
+  "ic_std_5d": 0.2000358961857908,
+  "icir_5d": 0.44680238259435423,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.0014737845894440822,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.46188612099644133,
+  "factor_id": "R437",
+  "slug": "7d-stability-scaled-range-position",
+  "name_cn": "7日稳定度缩放区间位置",
+  "name_en": "7D Stability Scaled Range Position",
+  "category_cn": "通道",
+  "category_en": "Channel",
+  "base": "range_position",
+  "transform": "stability",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

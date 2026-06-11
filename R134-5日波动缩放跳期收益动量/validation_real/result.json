@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194715,
+  "coverage": 0.988727245030086,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.01230680010839924,
+  "ic_std_5d": 0.2034109165198154,
+  "icir_5d": 0.42952273690103315,
+  "ic_observations": 1397,
+  "long_short_mean_5d": 0.0017899079561947099,
+  "long_short_observations": 1397,
+  "turnover_top_quintile": 0.37465239055800065,
+  "factor_id": "R134",
+  "slug": "5d-volatility-scaled-skip-period-momentum",
+  "name_cn": "5日波动缩放跳期收益动量",
+  "name_en": "5D Volatility Scaled Skip-Period Momentum",
+  "category_cn": "动量",
+  "category_en": "Momentum",
+  "base": "skip_return",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

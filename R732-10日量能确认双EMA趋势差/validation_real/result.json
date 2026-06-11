@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0076943261361860586,
+  "ic_std_5d": 0.21005776505178553,
+  "icir_5d": 0.2600441680657312,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0018695187967365618,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.26070405548017483,
+  "factor_id": "R732",
+  "slug": "10d-volume-confirmed-dual-ema-gap",
+  "name_cn": "10日量能确认双EMA趋势差",
+  "name_en": "10D Volume Confirmed Dual EMA Gap",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "dual_ema_gap",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

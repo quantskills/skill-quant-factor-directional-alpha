@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 193975,
+  "coverage": 0.9849696600401148,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0030735257706597527,
+  "ic_std_5d": 0.2145368571545821,
+  "icir_5d": 0.10170685214168555,
+  "ic_observations": 1392,
+  "long_short_mean_5d": 0.0013480768638672003,
+  "long_short_observations": 1392,
+  "turnover_top_quintile": 0.29113276346846917,
+  "factor_id": "R728",
+  "slug": "10d-volume-confirmed-skip-period-momentum",
+  "name_cn": "10日量能确认跳期收益动量",
+  "name_en": "10D Volume Confirmed Skip-Period Momentum",
+  "category_cn": "动量",
+  "category_en": "Momentum",
+  "base": "skip_return",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

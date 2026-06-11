@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.010473879732843607,
+  "ic_std_5d": 0.20139906285409345,
+  "icir_5d": -0.36920315671766857,
+  "ic_observations": 1402,
+  "long_short_mean_5d": -0.0015656180937844047,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.46953374139941084,
+  "factor_id": "R406",
+  "slug": "7d-volatility-scaled-lower-breakdown",
+  "name_cn": "7日波动缩放下轨跌破",
+  "name_en": "7D Volatility Scaled Lower Breakdown",
+  "category_cn": "突破",
+  "category_en": "Breakout",
+  "base": "breakdown",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

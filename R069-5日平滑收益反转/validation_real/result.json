@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.009539668514675411,
+  "ic_std_5d": 0.2129635058935028,
+  "icir_5d": -0.31801189485694864,
+  "ic_observations": 1401,
+  "long_short_mean_5d": -0.0016156996449599183,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.25676156583629894,
+  "factor_id": "R069",
+  "slug": "5d-smoothed-return-reversal",
+  "name_cn": "5日平滑收益反转",
+  "name_en": "5D Smoothed Return Reversal",
+  "category_cn": "反转",
+  "category_en": "Reversal",
+  "base": "reversal",
+  "transform": "smooth",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194833,
+  "coverage": 0.9893264275014598,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.009265588726142283,
+  "ic_std_5d": 0.14407360474008646,
+  "icir_5d": 0.4565663133657486,
+  "ic_observations": 1398,
+  "long_short_mean_5d": 0.0008525931533734361,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.4898705312756668,
+  "factor_id": "R184",
+  "slug": "5d-stability-scaled-trend-efficiency",
+  "name_cn": "5日稳定度缩放趋势效率",
+  "name_en": "5D Stability Scaled Trend Efficiency",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "efficiency",
+  "transform": "stability",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

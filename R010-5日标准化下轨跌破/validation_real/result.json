@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 7.051966813511808e-05,
+  "ic_std_5d": 0.19590297075261948,
+  "icir_5d": 0.0025555507281728417,
+  "ic_observations": 1401,
+  "long_short_mean_5d": -0.00045920780970988903,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.5038994931521622,
+  "factor_id": "R010",
+  "slug": "5d-z-scored-lower-breakdown",
+  "name_cn": "5日标准化下轨跌破",
+  "name_en": "5D Z-Scored Lower Breakdown",
+  "category_cn": "突破",
+  "category_en": "Breakout",
+  "base": "breakdown",
+  "transform": "z",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

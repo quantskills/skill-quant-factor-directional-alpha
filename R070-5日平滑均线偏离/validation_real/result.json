@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195899,
+  "coverage": 0.9947393810140401,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0035053310930945824,
+  "ic_std_5d": 0.2111623498805176,
+  "icir_5d": 0.1178495224626632,
+  "ic_observations": 1405,
+  "long_short_mean_5d": 0.0006028998739853017,
+  "long_short_observations": 1405,
+  "turnover_top_quintile": 0.3137105619717401,
+  "factor_id": "R070",
+  "slug": "5d-smoothed-sma-gap",
+  "name_cn": "5日平滑均线偏离",
+  "name_en": "5D Smoothed SMA Gap",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "sma_gap",
+  "transform": "smooth",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

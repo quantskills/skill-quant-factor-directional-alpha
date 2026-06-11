@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.015405903800716159,
+  "ic_std_5d": 0.2043267731882013,
+  "icir_5d": 0.535275262817437,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.0016313371191203773,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.26855063086379816,
+  "factor_id": "R084",
+  "slug": "5d-smoothed-risk-adjusted-trend",
+  "name_cn": "5日平滑风险调整趋势",
+  "name_en": "5D Smoothed Risk-Adjusted Trend",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "trend_strength",
+  "transform": "smooth",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

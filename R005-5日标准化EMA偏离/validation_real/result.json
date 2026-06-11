@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.003215320126815805,
+  "ic_std_5d": 0.1988027594545498,
+  "icir_5d": -0.11481987745424892,
+  "ic_observations": 1402,
+  "long_short_mean_5d": -0.00037997536142720767,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.5041725936462779,
+  "factor_id": "R005",
+  "slug": "5d-z-scored-ema-gap",
+  "name_cn": "5日标准化EMA偏离",
+  "name_en": "5D Z-Scored EMA Gap",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "ema_gap",
+  "transform": "z",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

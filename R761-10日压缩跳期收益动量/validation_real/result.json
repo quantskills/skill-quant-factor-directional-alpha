@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 193975,
+  "coverage": 0.9849696600401148,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0023636704787666756,
+  "ic_std_5d": 0.2173069575717015,
+  "icir_5d": 0.07721978139826624,
+  "ic_observations": 1392,
+  "long_short_mean_5d": 0.0010943012913840044,
+  "long_short_observations": 1392,
+  "turnover_top_quintile": 0.26127519267250293,
+  "factor_id": "R761",
+  "slug": "10d-compressed-skip-period-momentum",
+  "name_cn": "10日压缩跳期收益动量",
+  "name_en": "10D Compressed Skip-Period Momentum",
+  "category_cn": "动量",
+  "category_en": "Momentum",
+  "base": "skip_return",
+  "transform": "compress",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

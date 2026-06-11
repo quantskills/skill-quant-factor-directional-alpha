@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194863,
+  "coverage": 0.9894787620280804,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.0007200025969512717,
+  "ic_std_5d": 0.19740046741787068,
+  "icir_5d": -0.025894119887278556,
+  "ic_observations": 1398,
+  "long_short_mean_5d": 5.3916688882498514e-05,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.4257307730069738,
+  "factor_id": "R100",
+  "slug": "5d-time-series-ranked-return-momentum",
+  "name_cn": "5日时序排名收益动量",
+  "name_en": "5D Time-Series Ranked Return Momentum",
+  "category_cn": "动量",
+  "category_en": "Momentum",
+  "base": "return",
+  "transform": "rank",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 196047,
+  "coverage": 0.9954908980120344,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.0025853564636306833,
+  "ic_std_5d": 0.21028336667616898,
+  "icir_5d": -0.08728322367110805,
+  "ic_observations": 1406,
+  "long_short_mean_5d": 3.1303355719605574e-05,
+  "long_short_observations": 1406,
+  "turnover_top_quintile": 0.4541027294218784,
+  "factor_id": "R235",
+  "slug": "5d-compressed-sma-gap",
+  "name_cn": "5日压缩均线偏离",
+  "name_en": "5D Compressed SMA Gap",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "sma_gap",
+  "transform": "compress",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

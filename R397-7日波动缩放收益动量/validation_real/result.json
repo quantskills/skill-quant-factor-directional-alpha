@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195159,
+  "coverage": 0.9909817960240689,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.012788119284663349,
+  "ic_std_5d": 0.20666325228369375,
+  "icir_5d": 0.4392974549341257,
+  "ic_observations": 1400,
+  "long_short_mean_5d": 0.0021913422743532127,
+  "long_short_observations": 1400,
+  "turnover_top_quintile": 0.32011777549411957,
+  "factor_id": "R397",
+  "slug": "7d-volatility-scaled-return-momentum",
+  "name_cn": "7日波动缩放收益动量",
+  "name_en": "7D Volatility Scaled Return Momentum",
+  "category_cn": "动量",
+  "category_en": "Momentum",
+  "base": "return",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

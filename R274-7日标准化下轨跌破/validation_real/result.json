@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195159,
+  "coverage": 0.9909817960240689,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.0035128848373435734,
+  "ic_std_5d": 0.19539425380442554,
+  "icir_5d": -0.12763429770478615,
+  "ic_observations": 1400,
+  "long_short_mean_5d": -0.0009722003407815137,
+  "long_short_observations": 1400,
+  "turnover_top_quintile": 0.4578379953379953,
+  "factor_id": "R274",
+  "slug": "7d-z-scored-lower-breakdown",
+  "name_cn": "7日标准化下轨跌破",
+  "name_en": "7D Z-Scored Lower Breakdown",
+  "category_cn": "突破",
+  "category_en": "Breakout",
+  "base": "breakdown",
+  "transform": "z",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.02110352820628056,
+  "ic_std_5d": 0.1980607471246669,
+  "icir_5d": 0.7564355384037617,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.0034703890734147746,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.2127553111183004,
+  "factor_id": "R798",
+  "slug": "14d-z-scored-dual-ema-gap",
+  "name_cn": "14日标准化双EMA趋势差",
+  "name_en": "14D Z-Scored Dual EMA Gap",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "dual_ema_gap",
+  "transform": "z",
+  "params": {
+    "window": 14,
+    "norm": 28,
+    "lag": 2,
+    "smooth": 4,
+    "skip": 5,
+    "fast": 4,
+    "slow": 14
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

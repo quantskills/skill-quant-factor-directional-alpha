@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0036476724744967984,
+  "ic_std_5d": 0.21007483397586724,
+  "icir_5d": 0.1232699089556924,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0013656117124315804,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.37238375223449854,
+  "factor_id": "R731",
+  "slug": "10d-volume-confirmed-ema-gap",
+  "name_cn": "10日量能确认EMA偏离",
+  "name_en": "10D Volume Confirmed EMA Gap",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "ema_gap",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

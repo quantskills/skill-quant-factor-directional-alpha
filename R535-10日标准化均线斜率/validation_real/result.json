@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194419,
+  "coverage": 0.9872242110340975,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.011969255486300167,
+  "ic_std_5d": 0.186059437679375,
+  "icir_5d": 0.4566996737243441,
+  "ic_observations": 1395,
+  "long_short_mean_5d": 0.0018316247009652926,
+  "long_short_observations": 1395,
+  "turnover_top_quintile": 0.20763207485866525,
+  "factor_id": "R535",
+  "slug": "10d-z-scored-sma-slope",
+  "name_cn": "10日标准化均线斜率",
+  "name_en": "10D Z-Scored SMA Slope",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "sma_slope",
+  "transform": "z",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

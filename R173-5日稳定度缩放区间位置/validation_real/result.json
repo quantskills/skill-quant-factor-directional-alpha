@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.007272089432684481,
+  "ic_std_5d": 0.19962510670628497,
+  "icir_5d": 0.25861833904628295,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0007382192629735639,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.5254288977973187,
+  "factor_id": "R173",
+  "slug": "5d-stability-scaled-range-position",
+  "name_cn": "5日稳定度缩放区间位置",
+  "name_en": "5D Stability Scaled Range Position",
+  "category_cn": "通道",
+  "category_en": "Channel",
+  "base": "range_position",
+  "transform": "stability",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

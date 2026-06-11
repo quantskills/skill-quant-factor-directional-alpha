@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.014648944764709675,
+  "ic_std_5d": 0.19101745955585023,
+  "icir_5d": 0.5444381440382587,
+  "ic_observations": 1399,
+  "long_short_mean_5d": 0.0021248008518658353,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.36778008164323206,
+  "factor_id": "R800",
+  "slug": "14d-z-scored-range-position",
+  "name_cn": "14日标准化区间位置",
+  "name_en": "14D Z-Scored Range Position",
+  "category_cn": "通道",
+  "category_en": "Channel",
+  "base": "range_position",
+  "transform": "z",
+  "params": {
+    "window": 14,
+    "norm": 28,
+    "lag": 2,
+    "smooth": 4,
+    "skip": 5,
+    "fast": 4,
+    "slow": 14
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

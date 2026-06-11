@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194712,
+  "coverage": 0.988712011577424,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.026554803259189252,
+  "ic_std_5d": 0.16351863524321766,
+  "icir_5d": 1.1528985755455181,
+  "ic_observations": 1397,
+  "long_short_mean_5d": 0.0011008663370813334,
+  "long_short_observations": 1397,
+  "turnover_top_quintile": 0.3103843574935652,
+  "factor_id": "R679",
+  "slug": "10d-volatility-scaled-trend-efficiency",
+  "name_cn": "10日波动缩放趋势效率",
+  "name_en": "10D Volatility Scaled Trend Efficiency",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "efficiency",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.03225338166808106,
+  "ic_std_5d": 0.2200709785730915,
+  "icir_5d": 1.040465655909768,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.0020096119917012976,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.2709716380890758,
+  "factor_id": "R603",
+  "slug": "10d-smoothed-upper-breakout",
+  "name_cn": "10日平滑上轨突破",
+  "name_en": "10D Smoothed Upper Breakout",
+  "category_cn": "突破",
+  "category_en": "Breakout",
+  "base": "breakout",
+  "transform": "smooth",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194863,
+  "coverage": 0.9894787620280804,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.0003868943231606692,
+  "ic_std_5d": 0.19943989364928458,
+  "icir_5d": -0.013771954897680856,
+  "ic_observations": 1398,
+  "long_short_mean_5d": -0.00011835274181154829,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.3982243980460814,
+  "factor_id": "R003",
+  "slug": "5d-z-scored-return-reversal",
+  "name_cn": "5日标准化收益反转",
+  "name_en": "5D Z-Scored Return Reversal",
+  "category_cn": "反转",
+  "category_en": "Reversal",
+  "base": "reversal",
+  "transform": "z",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194863,
+  "coverage": 0.9894787620280804,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.010860590026990925,
+  "ic_std_5d": 0.19045233165113487,
+  "icir_5d": -0.40483904734068266,
+  "ic_observations": 1398,
+  "long_short_mean_5d": -0.0016356189761801182,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.417308086701273,
+  "factor_id": "R703",
+  "slug": "10d-stability-scaled-lower-breakdown",
+  "name_cn": "10日稳定度缩放下轨跌破",
+  "name_en": "10D Stability Scaled Lower Breakdown",
+  "category_cn": "突破",
+  "category_en": "Breakout",
+  "base": "breakdown",
+  "transform": "stability",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

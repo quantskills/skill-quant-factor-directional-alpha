@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0018836223125216528,
+  "ic_std_5d": 0.20118625529854106,
+  "icir_5d": 0.06646772086235361,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0004775490181053855,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.5287771101203937,
+  "factor_id": "R206",
+  "slug": "5d-volume-confirmed-range-position",
+  "name_cn": "5日量能确认区间位置",
+  "name_en": "5D Volume Confirmed Range Position",
+  "category_cn": "通道",
+  "category_en": "Channel",
+  "base": "range_position",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

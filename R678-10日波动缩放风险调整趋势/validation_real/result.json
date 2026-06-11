@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194712,
+  "coverage": 0.988712011577424,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.02124781751921342,
+  "ic_std_5d": 0.19131501541883078,
+  "icir_5d": 0.788461585528235,
+  "ic_observations": 1397,
+  "long_short_mean_5d": 0.0027898495740018314,
+  "long_short_observations": 1397,
+  "turnover_top_quintile": 0.2728055109069703,
+  "factor_id": "R678",
+  "slug": "10d-volatility-scaled-risk-adjusted-trend",
+  "name_cn": "10日波动缩放风险调整趋势",
+  "name_en": "10D Volatility Scaled Risk-Adjusted Trend",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "trend_strength",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

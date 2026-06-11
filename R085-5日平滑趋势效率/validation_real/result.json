@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.01422351372124455,
+  "ic_std_5d": 0.14632111892303576,
+  "icir_5d": 0.6901049630312577,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.00141610113331185,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.3447007440957619,
+  "factor_id": "R085",
+  "slug": "5d-smoothed-trend-efficiency",
+  "name_cn": "5日平滑趋势效率",
+  "name_en": "5D Smoothed Trend Efficiency",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "efficiency",
+  "transform": "smooth",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

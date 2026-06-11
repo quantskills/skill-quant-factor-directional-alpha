@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194863,
+  "coverage": 0.9894787620280804,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.004136773951745997,
+  "ic_std_5d": 0.19339091067544187,
+  "icir_5d": 0.15185916230106722,
+  "ic_observations": 1398,
+  "long_short_mean_5d": 0.0010968128096103442,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.2700498406465831,
+  "factor_id": "R106",
+  "slug": "5d-time-series-ranked-sma-slope",
+  "name_cn": "5日时序排名均线斜率",
+  "name_en": "5D Time-Series Ranked SMA Slope",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "sma_slope",
+  "transform": "rank",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

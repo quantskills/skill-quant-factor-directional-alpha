@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.008799907151633873,
+  "ic_std_5d": 0.20678172524178298,
+  "icir_5d": -0.3021212018541488,
+  "ic_observations": 1403,
+  "long_short_mean_5d": -0.0009649793555787091,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.45940427731472505,
+  "factor_id": "R567",
+  "slug": "10d-delta-dual-ema-gap",
+  "name_cn": "10日变化双EMA趋势差",
+  "name_en": "10D Delta Dual EMA Gap",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "dual_ema_gap",
+  "transform": "delta",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

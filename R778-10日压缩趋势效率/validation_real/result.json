@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194712,
+  "coverage": 0.988712011577424,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.01283392961278753,
+  "ic_std_5d": 0.14329783656498055,
+  "icir_5d": 0.6358216146732049,
+  "ic_observations": 1397,
+  "long_short_mean_5d": 0.001125097930768798,
+  "long_short_observations": 1397,
+  "turnover_top_quintile": 0.35329959120109017,
+  "factor_id": "R778",
+  "slug": "10d-compressed-trend-efficiency",
+  "name_cn": "10日压缩趋势效率",
+  "name_en": "10D Compressed Trend Efficiency",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "efficiency",
+  "transform": "compress",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.009328650294126354,
+  "ic_std_5d": 0.19595818033908174,
+  "icir_5d": 0.33796418794983285,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.000865224211709668,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.5288783550066302,
+  "factor_id": "R174",
+  "slug": "5d-stability-scaled-upper-breakout",
+  "name_cn": "5日稳定度缩放上轨突破",
+  "name_en": "5D Stability Scaled Upper Breakout",
+  "category_cn": "突破",
+  "category_en": "Breakout",
+  "base": "breakout",
+  "transform": "stability",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

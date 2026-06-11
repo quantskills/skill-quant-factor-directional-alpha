@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195751,
+  "coverage": 0.9939878640160459,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.010576904603307008,
+  "ic_std_5d": 0.21419271811190355,
+  "icir_5d": 0.3505654835121328,
+  "ic_observations": 1404,
+  "long_short_mean_5d": 0.002331156592054508,
+  "long_short_observations": 1404,
+  "turnover_top_quintile": 0.1714370265151515,
+  "factor_id": "R600",
+  "slug": "10d-smoothed-dual-ema-gap",
+  "name_cn": "10日平滑双EMA趋势差",
+  "name_en": "10D Smoothed Dual EMA Gap",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "dual_ema_gap",
+  "transform": "smooth",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

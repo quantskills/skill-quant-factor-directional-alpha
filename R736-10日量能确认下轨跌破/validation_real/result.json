@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0010443926947067091,
+  "ic_std_5d": 0.19944325636325816,
+  "icir_5d": 0.037175749851482344,
+  "ic_observations": 1402,
+  "long_short_mean_5d": -0.0021405514481439855,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.4328116251243364,
+  "factor_id": "R736",
+  "slug": "10d-volume-confirmed-lower-breakdown",
+  "name_cn": "10日量能确认下轨跌破",
+  "name_en": "10D Volume Confirmed Lower Breakdown",
+  "category_cn": "突破",
+  "category_en": "Breakout",
+  "base": "breakdown",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

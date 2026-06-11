@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.008088752163257402,
+  "ic_std_5d": 0.21289292481638813,
+  "icir_5d": 0.26973392291823145,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.0004464982544926287,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.7711093253740482,
+  "factor_id": "R036",
+  "slug": "5d-delta-return-reversal",
+  "name_cn": "5日变化收益反转",
+  "name_en": "5D Delta Return Reversal",
+  "category_cn": "反转",
+  "category_en": "Reversal",
+  "base": "reversal",
+  "transform": "delta",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

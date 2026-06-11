@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194567,
+  "coverage": 0.9879757280320918,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0019074766482996754,
+  "ic_std_5d": 0.14341019204682434,
+  "icir_5d": 0.09442662790986939,
+  "ic_observations": 1396,
+  "long_short_mean_5d": 0.000650628326918994,
+  "long_short_observations": 1396,
+  "turnover_top_quintile": 0.46525021675344547,
+  "factor_id": "R382",
+  "slug": "7d-time-series-ranked-trend-efficiency",
+  "name_cn": "7日时序排名趋势效率",
+  "name_en": "7D Time-Series Ranked Trend Efficiency",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "efficiency",
+  "transform": "rank",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

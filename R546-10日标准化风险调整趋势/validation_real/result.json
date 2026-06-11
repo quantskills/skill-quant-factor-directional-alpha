@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194120,
+  "coverage": 0.9857059435854469,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.009247727486605599,
+  "ic_std_5d": 0.18752365078207536,
+  "icir_5d": 0.35010171823095637,
+  "ic_observations": 1393,
+  "long_short_mean_5d": 0.001828725929812332,
+  "long_short_observations": 1393,
+  "turnover_top_quintile": 0.3399839482874558,
+  "factor_id": "R546",
+  "slug": "10d-z-scored-risk-adjusted-trend",
+  "name_cn": "10日标准化风险调整趋势",
+  "name_en": "10D Z-Scored Risk-Adjusted Trend",
+  "category_cn": "趋势",
+  "category_en": "Trend",
+  "base": "trend_strength",
+  "transform": "z",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}
