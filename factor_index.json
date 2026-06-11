@@ -25,7 +25,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R001-5d-z-scored-return-momentum"
   },
   {
     "factor_id": "R002",
@@ -53,7 +54,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R002-5d-z-scored-skip-period-momentum"
   },
   {
     "factor_id": "R003",
@@ -81,7 +83,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R003-5d-z-scored-return-reversal"
   },
   {
     "factor_id": "R004",
@@ -109,7 +112,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R004-5d-z-scored-sma-gap"
   },
   {
     "factor_id": "R005",
@@ -137,7 +141,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R005-5d-z-scored-ema-gap"
   },
   {
     "factor_id": "R006",
@@ -165,7 +170,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R006-5d-z-scored-dual-ema-gap"
   },
   {
     "factor_id": "R007",
@@ -193,7 +199,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R007-5d-z-scored-sma-slope"
   },
   {
     "factor_id": "R008",
@@ -221,7 +228,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R008-5d-z-scored-range-position"
   },
   {
     "factor_id": "R009",
@@ -249,7 +257,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R009-5d-z-scored-upper-breakout"
   },
   {
     "factor_id": "R010",
@@ -277,7 +286,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R010-5d-z-scored-lower-breakdown"
   },
   {
     "factor_id": "R018",
@@ -305,7 +315,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R018-5d-z-scored-risk-adjusted-trend"
   },
   {
     "factor_id": "R019",
@@ -333,7 +344,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R019-5d-z-scored-trend-efficiency"
   },
   {
     "factor_id": "R034",
@@ -361,7 +373,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R034-5d-delta-return-momentum"
   },
   {
     "factor_id": "R035",
@@ -389,7 +402,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R035-5d-delta-skip-period-momentum"
   },
   {
     "factor_id": "R036",
@@ -417,7 +431,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R036-5d-delta-return-reversal"
   },
   {
     "factor_id": "R037",
@@ -445,7 +460,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R037-5d-delta-sma-gap"
   },
   {
     "factor_id": "R038",
@@ -473,7 +489,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R038-5d-delta-ema-gap"
   },
   {
     "factor_id": "R039",
@@ -501,7 +518,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R039-5d-delta-dual-ema-gap"
   },
   {
     "factor_id": "R040",
@@ -529,7 +547,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R040-5d-delta-sma-slope"
   },
   {
     "factor_id": "R041",
@@ -557,7 +576,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R041-5d-delta-range-position"
   },
   {
     "factor_id": "R042",
@@ -585,7 +605,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R042-5d-delta-upper-breakout"
   },
   {
     "factor_id": "R043",
@@ -613,7 +634,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R043-5d-delta-lower-breakdown"
   },
   {
     "factor_id": "R051",
@@ -641,7 +663,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R051-5d-delta-risk-adjusted-trend"
   },
   {
     "factor_id": "R052",
@@ -669,7 +692,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R052-5d-delta-trend-efficiency"
   },
   {
     "factor_id": "R067",
@@ -697,7 +721,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R067-5d-smoothed-return-momentum"
   },
   {
     "factor_id": "R068",
@@ -725,7 +750,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R068-5d-smoothed-skip-period-momentum"
   },
   {
     "factor_id": "R069",
@@ -753,7 +779,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R069-5d-smoothed-return-reversal"
   },
   {
     "factor_id": "R070",
@@ -781,7 +808,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R070-5d-smoothed-sma-gap"
   },
   {
     "factor_id": "R071",
@@ -809,7 +837,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R071-5d-smoothed-ema-gap"
   },
   {
     "factor_id": "R072",
@@ -837,7 +866,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R072-5d-smoothed-dual-ema-gap"
   },
   {
     "factor_id": "R073",
@@ -865,7 +895,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R073-5d-smoothed-sma-slope"
   },
   {
     "factor_id": "R074",
@@ -893,7 +924,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R074-5d-smoothed-range-position"
   },
   {
     "factor_id": "R075",
@@ -921,7 +953,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R075-5d-smoothed-upper-breakout"
   },
   {
     "factor_id": "R076",
@@ -949,7 +982,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R076-5d-smoothed-lower-breakdown"
   },
   {
     "factor_id": "R084",
@@ -977,7 +1011,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R084-5d-smoothed-risk-adjusted-trend"
   },
   {
     "factor_id": "R085",
@@ -1005,7 +1040,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R085-5d-smoothed-trend-efficiency"
   },
   {
     "factor_id": "R100",
@@ -1033,7 +1069,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R100-5d-time-series-ranked-return-momentum"
   },
   {
     "factor_id": "R101",
@@ -1061,7 +1098,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R101-5d-time-series-ranked-skip-period-momentum"
   },
   {
     "factor_id": "R102",
@@ -1089,7 +1127,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R102-5d-time-series-ranked-return-reversal"
   },
   {
     "factor_id": "R103",
@@ -1117,7 +1156,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R103-5d-time-series-ranked-sma-gap"
   },
   {
     "factor_id": "R104",
@@ -1145,7 +1185,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R104-5d-time-series-ranked-ema-gap"
   },
   {
     "factor_id": "R105",
@@ -1173,7 +1214,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R105-5d-time-series-ranked-dual-ema-gap"
   },
   {
     "factor_id": "R106",
@@ -1201,7 +1243,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R106-5d-time-series-ranked-sma-slope"
   },
   {
     "factor_id": "R107",
@@ -1229,7 +1272,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R107-5d-time-series-ranked-range-position"
   },
   {
     "factor_id": "R108",
@@ -1257,7 +1301,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R108-5d-time-series-ranked-upper-breakout"
   },
   {
     "factor_id": "R109",
@@ -1285,7 +1330,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R109-5d-time-series-ranked-lower-breakdown"
   },
   {
     "factor_id": "R117",
@@ -1313,7 +1359,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R117-5d-time-series-ranked-risk-adjusted-trend"
   },
   {
     "factor_id": "R118",
@@ -1341,7 +1388,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R118-5d-time-series-ranked-trend-efficiency"
   },
   {
     "factor_id": "R133",
@@ -1369,7 +1417,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R133-5d-volatility-scaled-return-momentum"
   },
   {
     "factor_id": "R134",
@@ -1397,7 +1446,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R134-5d-volatility-scaled-skip-period-momentum"
   },
   {
     "factor_id": "R135",
@@ -1425,7 +1475,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R135-5d-volatility-scaled-return-reversal"
   },
   {
     "factor_id": "R136",
@@ -1453,7 +1504,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R136-5d-volatility-scaled-sma-gap"
   },
   {
     "factor_id": "R137",
@@ -1481,7 +1533,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R137-5d-volatility-scaled-ema-gap"
   },
   {
     "factor_id": "R138",
@@ -1509,7 +1562,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R138-5d-volatility-scaled-dual-ema-gap"
   },
   {
     "factor_id": "R139",
@@ -1537,7 +1591,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R139-5d-volatility-scaled-sma-slope"
   },
   {
     "factor_id": "R140",
@@ -1565,7 +1620,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R140-5d-volatility-scaled-range-position"
   },
   {
     "factor_id": "R141",
@@ -1593,7 +1649,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R141-5d-volatility-scaled-upper-breakout"
   },
   {
     "factor_id": "R142",
@@ -1621,7 +1678,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R142-5d-volatility-scaled-lower-breakdown"
   },
   {
     "factor_id": "R150",
@@ -1649,7 +1707,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R150-5d-volatility-scaled-risk-adjusted-trend"
   },
   {
     "factor_id": "R151",
@@ -1677,7 +1736,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R151-5d-volatility-scaled-trend-efficiency"
   },
   {
     "factor_id": "R166",
@@ -1705,7 +1765,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R166-5d-stability-scaled-return-momentum"
   },
   {
     "factor_id": "R167",
@@ -1733,7 +1794,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R167-5d-stability-scaled-skip-period-momentum"
   },
   {
     "factor_id": "R168",
@@ -1761,7 +1823,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R168-5d-stability-scaled-return-reversal"
   },
   {
     "factor_id": "R169",
@@ -1789,7 +1852,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R169-5d-stability-scaled-sma-gap"
   },
   {
     "factor_id": "R170",
@@ -1817,7 +1881,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R170-5d-stability-scaled-ema-gap"
   },
   {
     "factor_id": "R171",
@@ -1845,7 +1910,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R171-5d-stability-scaled-dual-ema-gap"
   },
   {
     "factor_id": "R172",
@@ -1873,7 +1939,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R172-5d-stability-scaled-sma-slope"
   },
   {
     "factor_id": "R173",
@@ -1901,7 +1968,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R173-5d-stability-scaled-range-position"
   },
   {
     "factor_id": "R174",
@@ -1929,7 +1997,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R174-5d-stability-scaled-upper-breakout"
   },
   {
     "factor_id": "R175",
@@ -1957,7 +2026,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R175-5d-stability-scaled-lower-breakdown"
   },
   {
     "factor_id": "R183",
@@ -1985,7 +2055,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R183-5d-stability-scaled-risk-adjusted-trend"
   },
   {
     "factor_id": "R184",
@@ -2013,7 +2084,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R184-5d-stability-scaled-trend-efficiency"
   },
   {
     "factor_id": "R199",
@@ -2041,7 +2113,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R199-5d-volume-confirmed-return-momentum"
   },
   {
     "factor_id": "R200",
@@ -2069,7 +2142,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R200-5d-volume-confirmed-skip-period-momentum"
   },
   {
     "factor_id": "R201",
@@ -2097,7 +2171,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R201-5d-volume-confirmed-return-reversal"
   },
   {
     "factor_id": "R202",
@@ -2125,7 +2200,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R202-5d-volume-confirmed-sma-gap"
   },
   {
     "factor_id": "R203",
@@ -2153,7 +2229,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R203-5d-volume-confirmed-ema-gap"
   },
   {
     "factor_id": "R204",
@@ -2181,7 +2258,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R204-5d-volume-confirmed-dual-ema-gap"
   },
   {
     "factor_id": "R205",
@@ -2209,7 +2287,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R205-5d-volume-confirmed-sma-slope"
   },
   {
     "factor_id": "R206",
@@ -2237,7 +2316,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R206-5d-volume-confirmed-range-position"
   },
   {
     "factor_id": "R207",
@@ -2265,7 +2345,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R207-5d-volume-confirmed-upper-breakout"
   },
   {
     "factor_id": "R208",
@@ -2293,7 +2374,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R208-5d-volume-confirmed-lower-breakdown"
   },
   {
     "factor_id": "R216",
@@ -2321,7 +2403,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R216-5d-volume-confirmed-risk-adjusted-trend"
   },
   {
     "factor_id": "R217",
@@ -2349,7 +2432,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R217-5d-volume-confirmed-trend-efficiency"
   },
   {
     "factor_id": "R232",
@@ -2377,7 +2461,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R232-5d-compressed-return-momentum"
   },
   {
     "factor_id": "R233",
@@ -2405,7 +2490,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R233-5d-compressed-skip-period-momentum"
   },
   {
     "factor_id": "R234",
@@ -2433,7 +2519,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R234-5d-compressed-return-reversal"
   },
   {
     "factor_id": "R235",
@@ -2461,7 +2548,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R235-5d-compressed-sma-gap"
   },
   {
     "factor_id": "R236",
@@ -2489,7 +2577,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R236-5d-compressed-ema-gap"
   },
   {
     "factor_id": "R237",
@@ -2517,7 +2606,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R237-5d-compressed-dual-ema-gap"
   },
   {
     "factor_id": "R238",
@@ -2545,7 +2635,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R238-5d-compressed-sma-slope"
   },
   {
     "factor_id": "R239",
@@ -2573,7 +2664,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R239-5d-compressed-range-position"
   },
   {
     "factor_id": "R240",
@@ -2601,7 +2693,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R240-5d-compressed-upper-breakout"
   },
   {
     "factor_id": "R241",
@@ -2629,7 +2722,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R241-5d-compressed-lower-breakdown"
   },
   {
     "factor_id": "R249",
@@ -2657,7 +2751,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R249-5d-compressed-risk-adjusted-trend"
   },
   {
     "factor_id": "R250",
@@ -2685,7 +2780,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R250-5d-compressed-trend-efficiency"
   },
   {
     "factor_id": "R265",
@@ -2713,7 +2809,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R265-7d-z-scored-return-momentum"
   },
   {
     "factor_id": "R266",
@@ -2741,7 +2838,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R266-7d-z-scored-skip-period-momentum"
   },
   {
     "factor_id": "R267",
@@ -2769,7 +2867,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R267-7d-z-scored-return-reversal"
   },
   {
     "factor_id": "R268",
@@ -2797,7 +2896,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R268-7d-z-scored-sma-gap"
   },
   {
     "factor_id": "R269",
@@ -2825,7 +2925,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R269-7d-z-scored-ema-gap"
   },
   {
     "factor_id": "R270",
@@ -2853,7 +2954,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R270-7d-z-scored-dual-ema-gap"
   },
   {
     "factor_id": "R271",
@@ -2881,7 +2983,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R271-7d-z-scored-sma-slope"
   },
   {
     "factor_id": "R272",
@@ -2909,7 +3012,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R272-7d-z-scored-range-position"
   },
   {
     "factor_id": "R273",
@@ -2937,7 +3041,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R273-7d-z-scored-upper-breakout"
   },
   {
     "factor_id": "R274",
@@ -2965,7 +3070,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R274-7d-z-scored-lower-breakdown"
   },
   {
     "factor_id": "R282",
@@ -2993,7 +3099,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R282-7d-z-scored-risk-adjusted-trend"
   },
   {
     "factor_id": "R283",
@@ -3021,7 +3128,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R283-7d-z-scored-trend-efficiency"
   },
   {
     "factor_id": "R298",
@@ -3049,7 +3157,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R298-7d-delta-return-momentum"
   },
   {
     "factor_id": "R299",
@@ -3077,7 +3186,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R299-7d-delta-skip-period-momentum"
   },
   {
     "factor_id": "R300",
@@ -3105,7 +3215,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R300-7d-delta-return-reversal"
   },
   {
     "factor_id": "R301",
@@ -3133,7 +3244,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R301-7d-delta-sma-gap"
   },
   {
     "factor_id": "R302",
@@ -3161,7 +3273,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R302-7d-delta-ema-gap"
   },
   {
     "factor_id": "R303",
@@ -3189,7 +3302,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R303-7d-delta-dual-ema-gap"
   },
   {
     "factor_id": "R304",
@@ -3217,7 +3331,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R304-7d-delta-sma-slope"
   },
   {
     "factor_id": "R305",
@@ -3245,7 +3360,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R305-7d-delta-range-position"
   },
   {
     "factor_id": "R306",
@@ -3273,7 +3389,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R306-7d-delta-upper-breakout"
   },
   {
     "factor_id": "R307",
@@ -3301,7 +3418,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R307-7d-delta-lower-breakdown"
   },
   {
     "factor_id": "R315",
@@ -3329,7 +3447,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R315-7d-delta-risk-adjusted-trend"
   },
   {
     "factor_id": "R316",
@@ -3357,7 +3476,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R316-7d-delta-trend-efficiency"
   },
   {
     "factor_id": "R331",
@@ -3385,7 +3505,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R331-7d-smoothed-return-momentum"
   },
   {
     "factor_id": "R332",
@@ -3413,7 +3534,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R332-7d-smoothed-skip-period-momentum"
   },
   {
     "factor_id": "R333",
@@ -3441,7 +3563,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R333-7d-smoothed-return-reversal"
   },
   {
     "factor_id": "R334",
@@ -3469,7 +3592,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R334-7d-smoothed-sma-gap"
   },
   {
     "factor_id": "R335",
@@ -3497,7 +3621,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R335-7d-smoothed-ema-gap"
   },
   {
     "factor_id": "R336",
@@ -3525,7 +3650,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R336-7d-smoothed-dual-ema-gap"
   },
   {
     "factor_id": "R337",
@@ -3553,7 +3679,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R337-7d-smoothed-sma-slope"
   },
   {
     "factor_id": "R338",
@@ -3581,7 +3708,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R338-7d-smoothed-range-position"
   },
   {
     "factor_id": "R339",
@@ -3609,7 +3737,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R339-7d-smoothed-upper-breakout"
   },
   {
     "factor_id": "R340",
@@ -3637,7 +3766,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R340-7d-smoothed-lower-breakdown"
   },
   {
     "factor_id": "R348",
@@ -3665,7 +3795,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R348-7d-smoothed-risk-adjusted-trend"
   },
   {
     "factor_id": "R349",
@@ -3693,7 +3824,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R349-7d-smoothed-trend-efficiency"
   },
   {
     "factor_id": "R364",
@@ -3721,7 +3853,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R364-7d-time-series-ranked-return-momentum"
   },
   {
     "factor_id": "R365",
@@ -3749,7 +3882,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R365-7d-time-series-ranked-skip-period-momentum"
   },
   {
     "factor_id": "R366",
@@ -3777,7 +3911,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R366-7d-time-series-ranked-return-reversal"
   },
   {
     "factor_id": "R367",
@@ -3805,7 +3940,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R367-7d-time-series-ranked-sma-gap"
   },
   {
     "factor_id": "R368",
@@ -3833,7 +3969,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R368-7d-time-series-ranked-ema-gap"
   },
   {
     "factor_id": "R369",
@@ -3861,7 +3998,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R369-7d-time-series-ranked-dual-ema-gap"
   },
   {
     "factor_id": "R370",
@@ -3889,7 +4027,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R370-7d-time-series-ranked-sma-slope"
   },
   {
     "factor_id": "R371",
@@ -3917,7 +4056,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R371-7d-time-series-ranked-range-position"
   },
   {
     "factor_id": "R372",
@@ -3945,7 +4085,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R372-7d-time-series-ranked-upper-breakout"
   },
   {
     "factor_id": "R373",
@@ -3973,7 +4114,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R373-7d-time-series-ranked-lower-breakdown"
   },
   {
     "factor_id": "R381",
@@ -4001,7 +4143,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R381-7d-time-series-ranked-risk-adjusted-trend"
   },
   {
     "factor_id": "R382",
@@ -4029,7 +4172,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R382-7d-time-series-ranked-trend-efficiency"
   },
   {
     "factor_id": "R397",
@@ -4057,7 +4201,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R397-7d-volatility-scaled-return-momentum"
   },
   {
     "factor_id": "R398",
@@ -4085,7 +4230,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R398-7d-volatility-scaled-skip-period-momentum"
   },
   {
     "factor_id": "R399",
@@ -4113,7 +4259,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R399-7d-volatility-scaled-return-reversal"
   },
   {
     "factor_id": "R400",
@@ -4141,7 +4288,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R400-7d-volatility-scaled-sma-gap"
   },
   {
     "factor_id": "R401",
@@ -4169,7 +4317,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R401-7d-volatility-scaled-ema-gap"
   },
   {
     "factor_id": "R402",
@@ -4197,7 +4346,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R402-7d-volatility-scaled-dual-ema-gap"
   },
   {
     "factor_id": "R403",
@@ -4225,7 +4375,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R403-7d-volatility-scaled-sma-slope"
   },
   {
     "factor_id": "R404",
@@ -4253,7 +4404,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R404-7d-volatility-scaled-range-position"
   },
   {
     "factor_id": "R405",
@@ -4281,7 +4433,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R405-7d-volatility-scaled-upper-breakout"
   },
   {
     "factor_id": "R406",
@@ -4309,7 +4462,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R406-7d-volatility-scaled-lower-breakdown"
   },
   {
     "factor_id": "R414",
@@ -4337,7 +4491,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R414-7d-volatility-scaled-risk-adjusted-trend"
   },
   {
     "factor_id": "R415",
@@ -4365,7 +4520,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R415-7d-volatility-scaled-trend-efficiency"
   },
   {
     "factor_id": "R430",
@@ -4393,7 +4549,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R430-7d-stability-scaled-return-momentum"
   },
   {
     "factor_id": "R431",
@@ -4421,7 +4578,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R431-7d-stability-scaled-skip-period-momentum"
   },
   {
     "factor_id": "R432",
@@ -4449,7 +4607,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R432-7d-stability-scaled-return-reversal"
   },
   {
     "factor_id": "R433",
@@ -4477,7 +4636,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R433-7d-stability-scaled-sma-gap"
   },
   {
     "factor_id": "R434",
@@ -4505,7 +4665,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R434-7d-stability-scaled-ema-gap"
   },
   {
     "factor_id": "R435",
@@ -4533,7 +4694,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R435-7d-stability-scaled-dual-ema-gap"
   },
   {
     "factor_id": "R436",
@@ -4561,7 +4723,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R436-7d-stability-scaled-sma-slope"
   },
   {
     "factor_id": "R437",
@@ -4589,7 +4752,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R437-7d-stability-scaled-range-position"
   },
   {
     "factor_id": "R438",
@@ -4617,7 +4781,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R438-7d-stability-scaled-upper-breakout"
   },
   {
     "factor_id": "R439",
@@ -4645,7 +4810,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R439-7d-stability-scaled-lower-breakdown"
   },
   {
     "factor_id": "R447",
@@ -4673,7 +4839,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R447-7d-stability-scaled-risk-adjusted-trend"
   },
   {
     "factor_id": "R448",
@@ -4701,7 +4868,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R448-7d-stability-scaled-trend-efficiency"
   },
   {
     "factor_id": "R463",
@@ -4729,7 +4897,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R463-7d-volume-confirmed-return-momentum"
   },
   {
     "factor_id": "R464",
@@ -4757,7 +4926,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R464-7d-volume-confirmed-skip-period-momentum"
   },
   {
     "factor_id": "R465",
@@ -4785,7 +4955,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R465-7d-volume-confirmed-return-reversal"
   },
   {
     "factor_id": "R466",
@@ -4813,7 +4984,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R466-7d-volume-confirmed-sma-gap"
   },
   {
     "factor_id": "R467",
@@ -4841,7 +5013,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R467-7d-volume-confirmed-ema-gap"
   },
   {
     "factor_id": "R468",
@@ -4869,7 +5042,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R468-7d-volume-confirmed-dual-ema-gap"
   },
   {
     "factor_id": "R469",
@@ -4897,7 +5071,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R469-7d-volume-confirmed-sma-slope"
   },
   {
     "factor_id": "R470",
@@ -4925,7 +5100,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R470-7d-volume-confirmed-range-position"
   },
   {
     "factor_id": "R471",
@@ -4953,7 +5129,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R471-7d-volume-confirmed-upper-breakout"
   },
   {
     "factor_id": "R472",
@@ -4981,7 +5158,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R472-7d-volume-confirmed-lower-breakdown"
   },
   {
     "factor_id": "R480",
@@ -5009,7 +5187,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R480-7d-volume-confirmed-risk-adjusted-trend"
   },
   {
     "factor_id": "R481",
@@ -5037,7 +5216,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R481-7d-volume-confirmed-trend-efficiency"
   },
   {
     "factor_id": "R496",
@@ -5065,7 +5245,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R496-7d-compressed-return-momentum"
   },
   {
     "factor_id": "R497",
@@ -5093,7 +5274,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R497-7d-compressed-skip-period-momentum"
   },
   {
     "factor_id": "R498",
@@ -5121,7 +5303,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R498-7d-compressed-return-reversal"
   },
   {
     "factor_id": "R499",
@@ -5149,7 +5332,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R499-7d-compressed-sma-gap"
   },
   {
     "factor_id": "R500",
@@ -5177,7 +5361,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R500-7d-compressed-ema-gap"
   },
   {
     "factor_id": "R501",
@@ -5205,7 +5390,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R501-7d-compressed-dual-ema-gap"
   },
   {
     "factor_id": "R502",
@@ -5233,7 +5419,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R502-7d-compressed-sma-slope"
   },
   {
     "factor_id": "R503",
@@ -5261,7 +5448,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R503-7d-compressed-range-position"
   },
   {
     "factor_id": "R504",
@@ -5289,7 +5477,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R504-7d-compressed-upper-breakout"
   },
   {
     "factor_id": "R505",
@@ -5317,7 +5506,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R505-7d-compressed-lower-breakdown"
   },
   {
     "factor_id": "R513",
@@ -5345,7 +5535,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R513-7d-compressed-risk-adjusted-trend"
   },
   {
     "factor_id": "R514",
@@ -5373,7 +5564,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R514-7d-compressed-trend-efficiency"
   },
   {
     "factor_id": "R529",
@@ -5401,7 +5593,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R529-10d-z-scored-return-momentum"
   },
   {
     "factor_id": "R530",
@@ -5429,7 +5622,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R530-10d-z-scored-skip-period-momentum"
   },
   {
     "factor_id": "R531",
@@ -5457,7 +5651,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R531-10d-z-scored-return-reversal"
   },
   {
     "factor_id": "R532",
@@ -5485,7 +5680,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R532-10d-z-scored-sma-gap"
   },
   {
     "factor_id": "R533",
@@ -5513,7 +5709,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R533-10d-z-scored-ema-gap"
   },
   {
     "factor_id": "R534",
@@ -5541,7 +5738,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R534-10d-z-scored-dual-ema-gap"
   },
   {
     "factor_id": "R535",
@@ -5569,7 +5767,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R535-10d-z-scored-sma-slope"
   },
   {
     "factor_id": "R536",
@@ -5597,7 +5796,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R536-10d-z-scored-range-position"
   },
   {
     "factor_id": "R537",
@@ -5625,7 +5825,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R537-10d-z-scored-upper-breakout"
   },
   {
     "factor_id": "R538",
@@ -5653,7 +5854,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R538-10d-z-scored-lower-breakdown"
   },
   {
     "factor_id": "R546",
@@ -5681,7 +5883,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R546-10d-z-scored-risk-adjusted-trend"
   },
   {
     "factor_id": "R547",
@@ -5709,7 +5912,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R547-10d-z-scored-trend-efficiency"
   },
   {
     "factor_id": "R562",
@@ -5737,7 +5941,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R562-10d-delta-return-momentum"
   },
   {
     "factor_id": "R563",
@@ -5765,7 +5970,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R563-10d-delta-skip-period-momentum"
   },
   {
     "factor_id": "R564",
@@ -5793,7 +5999,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R564-10d-delta-return-reversal"
   },
   {
     "factor_id": "R565",
@@ -5821,7 +6028,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R565-10d-delta-sma-gap"
   },
   {
     "factor_id": "R566",
@@ -5849,7 +6057,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R566-10d-delta-ema-gap"
   },
   {
     "factor_id": "R567",
@@ -5877,7 +6086,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R567-10d-delta-dual-ema-gap"
   },
   {
     "factor_id": "R568",
@@ -5905,7 +6115,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R568-10d-delta-sma-slope"
   },
   {
     "factor_id": "R569",
@@ -5933,7 +6144,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R569-10d-delta-range-position"
   },
   {
     "factor_id": "R570",
@@ -5961,7 +6173,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R570-10d-delta-upper-breakout"
   },
   {
     "factor_id": "R571",
@@ -5989,7 +6202,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R571-10d-delta-lower-breakdown"
   },
   {
     "factor_id": "R579",
@@ -6017,7 +6231,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R579-10d-delta-risk-adjusted-trend"
   },
   {
     "factor_id": "R580",
@@ -6045,7 +6260,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R580-10d-delta-trend-efficiency"
   },
   {
     "factor_id": "R595",
@@ -6073,7 +6289,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R595-10d-smoothed-return-momentum"
   },
   {
     "factor_id": "R596",
@@ -6101,7 +6318,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R596-10d-smoothed-skip-period-momentum"
   },
   {
     "factor_id": "R597",
@@ -6129,7 +6347,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R597-10d-smoothed-return-reversal"
   },
   {
     "factor_id": "R598",
@@ -6157,7 +6376,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R598-10d-smoothed-sma-gap"
   },
   {
     "factor_id": "R599",
@@ -6185,7 +6405,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R599-10d-smoothed-ema-gap"
   },
   {
     "factor_id": "R600",
@@ -6213,7 +6434,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R600-10d-smoothed-dual-ema-gap"
   },
   {
     "factor_id": "R601",
@@ -6241,7 +6463,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R601-10d-smoothed-sma-slope"
   },
   {
     "factor_id": "R602",
@@ -6269,7 +6492,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R602-10d-smoothed-range-position"
   },
   {
     "factor_id": "R603",
@@ -6297,7 +6521,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R603-10d-smoothed-upper-breakout"
   },
   {
     "factor_id": "R604",
@@ -6325,7 +6550,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R604-10d-smoothed-lower-breakdown"
   },
   {
     "factor_id": "R612",
@@ -6353,7 +6579,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R612-10d-smoothed-risk-adjusted-trend"
   },
   {
     "factor_id": "R613",
@@ -6381,7 +6608,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R613-10d-smoothed-trend-efficiency"
   },
   {
     "factor_id": "R628",
@@ -6409,7 +6637,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R628-10d-time-series-ranked-return-momentum"
   },
   {
     "factor_id": "R629",
@@ -6437,7 +6666,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R629-10d-time-series-ranked-skip-period-momentum"
   },
   {
     "factor_id": "R630",
@@ -6465,7 +6695,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R630-10d-time-series-ranked-return-reversal"
   },
   {
     "factor_id": "R631",
@@ -6493,7 +6724,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R631-10d-time-series-ranked-sma-gap"
   },
   {
     "factor_id": "R632",
@@ -6521,7 +6753,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R632-10d-time-series-ranked-ema-gap"
   },
   {
     "factor_id": "R633",
@@ -6549,7 +6782,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R633-10d-time-series-ranked-dual-ema-gap"
   },
   {
     "factor_id": "R634",
@@ -6577,7 +6811,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R634-10d-time-series-ranked-sma-slope"
   },
   {
     "factor_id": "R635",
@@ -6605,7 +6840,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R635-10d-time-series-ranked-range-position"
   },
   {
     "factor_id": "R636",
@@ -6633,7 +6869,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R636-10d-time-series-ranked-upper-breakout"
   },
   {
     "factor_id": "R637",
@@ -6661,7 +6898,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R637-10d-time-series-ranked-lower-breakdown"
   },
   {
     "factor_id": "R645",
@@ -6689,7 +6927,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R645-10d-time-series-ranked-risk-adjusted-trend"
   },
   {
     "factor_id": "R646",
@@ -6717,7 +6956,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R646-10d-time-series-ranked-trend-efficiency"
   },
   {
     "factor_id": "R661",
@@ -6745,7 +6985,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R661-10d-volatility-scaled-return-momentum"
   },
   {
     "factor_id": "R662",
@@ -6773,7 +7014,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R662-10d-volatility-scaled-skip-period-momentum"
   },
   {
     "factor_id": "R663",
@@ -6801,7 +7043,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R663-10d-volatility-scaled-return-reversal"
   },
   {
     "factor_id": "R664",
@@ -6829,7 +7072,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R664-10d-volatility-scaled-sma-gap"
   },
   {
     "factor_id": "R665",
@@ -6857,7 +7101,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R665-10d-volatility-scaled-ema-gap"
   },
   {
     "factor_id": "R666",
@@ -6885,7 +7130,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R666-10d-volatility-scaled-dual-ema-gap"
   },
   {
     "factor_id": "R667",
@@ -6913,7 +7159,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R667-10d-volatility-scaled-sma-slope"
   },
   {
     "factor_id": "R668",
@@ -6941,7 +7188,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R668-10d-volatility-scaled-range-position"
   },
   {
     "factor_id": "R669",
@@ -6969,7 +7217,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R669-10d-volatility-scaled-upper-breakout"
   },
   {
     "factor_id": "R670",
@@ -6997,7 +7246,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R670-10d-volatility-scaled-lower-breakdown"
   },
   {
     "factor_id": "R678",
@@ -7025,7 +7275,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R678-10d-volatility-scaled-risk-adjusted-trend"
   },
   {
     "factor_id": "R679",
@@ -7053,7 +7304,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R679-10d-volatility-scaled-trend-efficiency"
   },
   {
     "factor_id": "R694",
@@ -7081,7 +7333,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R694-10d-stability-scaled-return-momentum"
   },
   {
     "factor_id": "R695",
@@ -7109,7 +7362,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R695-10d-stability-scaled-skip-period-momentum"
   },
   {
     "factor_id": "R696",
@@ -7137,7 +7391,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R696-10d-stability-scaled-return-reversal"
   },
   {
     "factor_id": "R697",
@@ -7165,7 +7420,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R697-10d-stability-scaled-sma-gap"
   },
   {
     "factor_id": "R698",
@@ -7193,7 +7449,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R698-10d-stability-scaled-ema-gap"
   },
   {
     "factor_id": "R699",
@@ -7221,7 +7478,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R699-10d-stability-scaled-dual-ema-gap"
   },
   {
     "factor_id": "R700",
@@ -7249,7 +7507,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R700-10d-stability-scaled-sma-slope"
   },
   {
     "factor_id": "R701",
@@ -7277,7 +7536,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R701-10d-stability-scaled-range-position"
   },
   {
     "factor_id": "R702",
@@ -7305,7 +7565,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R702-10d-stability-scaled-upper-breakout"
   },
   {
     "factor_id": "R703",
@@ -7333,7 +7594,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R703-10d-stability-scaled-lower-breakdown"
   },
   {
     "factor_id": "R711",
@@ -7361,7 +7623,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R711-10d-stability-scaled-risk-adjusted-trend"
   },
   {
     "factor_id": "R712",
@@ -7389,7 +7652,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R712-10d-stability-scaled-trend-efficiency"
   },
   {
     "factor_id": "R727",
@@ -7417,7 +7681,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R727-10d-volume-confirmed-return-momentum"
   },
   {
     "factor_id": "R728",
@@ -7445,7 +7710,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R728-10d-volume-confirmed-skip-period-momentum"
   },
   {
     "factor_id": "R729",
@@ -7473,7 +7739,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R729-10d-volume-confirmed-return-reversal"
   },
   {
     "factor_id": "R730",
@@ -7501,7 +7768,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R730-10d-volume-confirmed-sma-gap"
   },
   {
     "factor_id": "R731",
@@ -7529,7 +7797,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R731-10d-volume-confirmed-ema-gap"
   },
   {
     "factor_id": "R732",
@@ -7557,7 +7826,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R732-10d-volume-confirmed-dual-ema-gap"
   },
   {
     "factor_id": "R733",
@@ -7585,7 +7855,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R733-10d-volume-confirmed-sma-slope"
   },
   {
     "factor_id": "R734",
@@ -7613,7 +7884,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R734-10d-volume-confirmed-range-position"
   },
   {
     "factor_id": "R735",
@@ -7641,7 +7913,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R735-10d-volume-confirmed-upper-breakout"
   },
   {
     "factor_id": "R736",
@@ -7669,7 +7942,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R736-10d-volume-confirmed-lower-breakdown"
   },
   {
     "factor_id": "R744",
@@ -7697,7 +7971,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R744-10d-volume-confirmed-risk-adjusted-trend"
   },
   {
     "factor_id": "R745",
@@ -7725,7 +8000,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R745-10d-volume-confirmed-trend-efficiency"
   },
   {
     "factor_id": "R760",
@@ -7753,7 +8029,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R760-10d-compressed-return-momentum"
   },
   {
     "factor_id": "R761",
@@ -7781,7 +8058,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R761-10d-compressed-skip-period-momentum"
   },
   {
     "factor_id": "R762",
@@ -7809,7 +8087,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R762-10d-compressed-return-reversal"
   },
   {
     "factor_id": "R763",
@@ -7837,7 +8116,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R763-10d-compressed-sma-gap"
   },
   {
     "factor_id": "R764",
@@ -7865,7 +8145,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R764-10d-compressed-ema-gap"
   },
   {
     "factor_id": "R765",
@@ -7893,7 +8174,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R765-10d-compressed-dual-ema-gap"
   },
   {
     "factor_id": "R766",
@@ -7921,7 +8203,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R766-10d-compressed-sma-slope"
   },
   {
     "factor_id": "R767",
@@ -7949,7 +8232,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R767-10d-compressed-range-position"
   },
   {
     "factor_id": "R768",
@@ -7977,7 +8261,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R768-10d-compressed-upper-breakout"
   },
   {
     "factor_id": "R769",
@@ -8005,7 +8290,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R769-10d-compressed-lower-breakdown"
   },
   {
     "factor_id": "R777",
@@ -8033,7 +8319,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R777-10d-compressed-risk-adjusted-trend"
   },
   {
     "factor_id": "R778",
@@ -8061,7 +8348,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R778-10d-compressed-trend-efficiency"
   },
   {
     "factor_id": "R793",
@@ -8089,7 +8377,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R793-14d-z-scored-return-momentum"
   },
   {
     "factor_id": "R794",
@@ -8117,7 +8406,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R794-14d-z-scored-skip-period-momentum"
   },
   {
     "factor_id": "R795",
@@ -8145,7 +8435,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R795-14d-z-scored-return-reversal"
   },
   {
     "factor_id": "R796",
@@ -8173,7 +8464,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R796-14d-z-scored-sma-gap"
   },
   {
     "factor_id": "R797",
@@ -8201,7 +8493,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R797-14d-z-scored-ema-gap"
   },
   {
     "factor_id": "R798",
@@ -8229,7 +8522,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R798-14d-z-scored-dual-ema-gap"
   },
   {
     "factor_id": "R799",
@@ -8257,7 +8551,8 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R799-14d-z-scored-sma-slope"
   },
   {
     "factor_id": "R800",
@@ -8285,6 +8580,7 @@
     "repository": "skill-quant-factor-directional-alpha",
     "collection": "directional-alpha",
     "organization_url": "https://github.com/quantskills",
-    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha"
+    "repository_url": "https://github.com/quantskills/skill-quant-factor-directional-alpha",
+    "path": "factors/R800-14d-z-scored-range-position"
   }
 ]

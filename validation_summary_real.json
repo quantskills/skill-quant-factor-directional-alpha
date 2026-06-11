@@ -32,7 +32,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R001-5d-z-scored-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -67,7 +68,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R002-5d-z-scored-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -102,7 +104,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R003-5d-z-scored-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -137,7 +140,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R004-5d-z-scored-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -172,7 +176,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R005-5d-z-scored-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -207,7 +212,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R006-5d-z-scored-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -242,7 +248,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R007-5d-z-scored-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -277,7 +284,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R008-5d-z-scored-range-position"
   },
   {
     "sample_rows": 196935,
@@ -312,7 +320,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R009-5d-z-scored-upper-breakout"
   },
   {
     "sample_rows": 196935,
@@ -347,7 +356,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R010-5d-z-scored-lower-breakdown"
   },
   {
     "sample_rows": 196935,
@@ -382,7 +392,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R018-5d-z-scored-risk-adjusted-trend"
   },
   {
     "sample_rows": 196935,
@@ -417,7 +428,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R019-5d-z-scored-trend-efficiency"
   },
   {
     "sample_rows": 196935,
@@ -452,7 +464,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R034-5d-delta-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -487,7 +500,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R035-5d-delta-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -522,7 +536,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R036-5d-delta-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -557,7 +572,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R037-5d-delta-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -592,7 +608,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R038-5d-delta-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -627,7 +644,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R039-5d-delta-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -662,7 +680,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R040-5d-delta-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -697,7 +716,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R041-5d-delta-range-position"
   },
   {
     "sample_rows": 196935,
@@ -732,7 +752,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R042-5d-delta-upper-breakout"
   },
   {
     "sample_rows": 196935,
@@ -767,7 +788,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R043-5d-delta-lower-breakdown"
   },
   {
     "sample_rows": 196935,
@@ -802,7 +824,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R051-5d-delta-risk-adjusted-trend"
   },
   {
     "sample_rows": 196935,
@@ -837,7 +860,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R052-5d-delta-trend-efficiency"
   },
   {
     "sample_rows": 196935,
@@ -872,7 +896,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R067-5d-smoothed-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -907,7 +932,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R068-5d-smoothed-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -942,7 +968,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R069-5d-smoothed-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -977,7 +1004,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R070-5d-smoothed-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -1012,7 +1040,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R071-5d-smoothed-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -1047,7 +1076,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R072-5d-smoothed-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -1082,7 +1112,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R073-5d-smoothed-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -1117,7 +1148,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R074-5d-smoothed-range-position"
   },
   {
     "sample_rows": 196935,
@@ -1152,7 +1184,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R075-5d-smoothed-upper-breakout"
   },
   {
     "sample_rows": 196935,
@@ -1187,7 +1220,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R076-5d-smoothed-lower-breakdown"
   },
   {
     "sample_rows": 196935,
@@ -1222,7 +1256,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R084-5d-smoothed-risk-adjusted-trend"
   },
   {
     "sample_rows": 196935,
@@ -1257,7 +1292,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R085-5d-smoothed-trend-efficiency"
   },
   {
     "sample_rows": 196935,
@@ -1292,7 +1328,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R100-5d-time-series-ranked-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -1327,7 +1364,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R101-5d-time-series-ranked-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -1362,7 +1400,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R102-5d-time-series-ranked-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -1397,7 +1436,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R103-5d-time-series-ranked-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -1432,7 +1472,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R104-5d-time-series-ranked-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -1467,7 +1508,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R105-5d-time-series-ranked-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -1502,7 +1544,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R106-5d-time-series-ranked-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -1537,7 +1580,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R107-5d-time-series-ranked-range-position"
   },
   {
     "sample_rows": 196935,
@@ -1572,7 +1616,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R108-5d-time-series-ranked-upper-breakout"
   },
   {
     "sample_rows": 196935,
@@ -1607,7 +1652,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R109-5d-time-series-ranked-lower-breakdown"
   },
   {
     "sample_rows": 196935,
@@ -1642,7 +1688,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R117-5d-time-series-ranked-risk-adjusted-trend"
   },
   {
     "sample_rows": 196935,
@@ -1677,7 +1724,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R118-5d-time-series-ranked-trend-efficiency"
   },
   {
     "sample_rows": 196935,
@@ -1712,7 +1760,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R133-5d-volatility-scaled-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -1747,7 +1796,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R134-5d-volatility-scaled-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -1782,7 +1832,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R135-5d-volatility-scaled-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -1817,7 +1868,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R136-5d-volatility-scaled-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -1852,7 +1904,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R137-5d-volatility-scaled-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -1887,7 +1940,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R138-5d-volatility-scaled-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -1922,7 +1976,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R139-5d-volatility-scaled-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -1957,7 +2012,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R140-5d-volatility-scaled-range-position"
   },
   {
     "sample_rows": 196935,
@@ -1992,7 +2048,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R141-5d-volatility-scaled-upper-breakout"
   },
   {
     "sample_rows": 196935,
@@ -2027,7 +2084,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R142-5d-volatility-scaled-lower-breakdown"
   },
   {
     "sample_rows": 196935,
@@ -2062,7 +2120,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R150-5d-volatility-scaled-risk-adjusted-trend"
   },
   {
     "sample_rows": 196935,
@@ -2097,7 +2156,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R151-5d-volatility-scaled-trend-efficiency"
   },
   {
     "sample_rows": 196935,
@@ -2132,7 +2192,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R166-5d-stability-scaled-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -2167,7 +2228,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R167-5d-stability-scaled-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -2202,7 +2264,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R168-5d-stability-scaled-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -2237,7 +2300,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R169-5d-stability-scaled-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -2272,7 +2336,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R170-5d-stability-scaled-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -2307,7 +2372,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R171-5d-stability-scaled-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -2342,7 +2408,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R172-5d-stability-scaled-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -2377,7 +2444,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R173-5d-stability-scaled-range-position"
   },
   {
     "sample_rows": 196935,
@@ -2412,7 +2480,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R174-5d-stability-scaled-upper-breakout"
   },
   {
     "sample_rows": 196935,
@@ -2447,7 +2516,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R175-5d-stability-scaled-lower-breakdown"
   },
   {
     "sample_rows": 196935,
@@ -2482,7 +2552,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R183-5d-stability-scaled-risk-adjusted-trend"
   },
   {
     "sample_rows": 196935,
@@ -2517,7 +2588,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R184-5d-stability-scaled-trend-efficiency"
   },
   {
     "sample_rows": 196935,
@@ -2552,7 +2624,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R199-5d-volume-confirmed-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -2587,7 +2660,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R200-5d-volume-confirmed-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -2622,7 +2696,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R201-5d-volume-confirmed-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -2657,7 +2732,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R202-5d-volume-confirmed-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -2692,7 +2768,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R203-5d-volume-confirmed-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -2727,7 +2804,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R204-5d-volume-confirmed-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -2762,7 +2840,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R205-5d-volume-confirmed-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -2797,7 +2876,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R206-5d-volume-confirmed-range-position"
   },
   {
     "sample_rows": 196935,
@@ -2832,7 +2912,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R207-5d-volume-confirmed-upper-breakout"
   },
   {
     "sample_rows": 196935,
@@ -2867,7 +2948,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R208-5d-volume-confirmed-lower-breakdown"
   },
   {
     "sample_rows": 196935,
@@ -2902,7 +2984,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R216-5d-volume-confirmed-risk-adjusted-trend"
   },
   {
     "sample_rows": 196935,
@@ -2937,7 +3020,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R217-5d-volume-confirmed-trend-efficiency"
   },
   {
     "sample_rows": 196935,
@@ -2972,7 +3056,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R232-5d-compressed-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -3007,7 +3092,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R233-5d-compressed-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -3042,7 +3128,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R234-5d-compressed-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -3077,7 +3164,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R235-5d-compressed-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -3112,7 +3200,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R236-5d-compressed-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -3147,7 +3236,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R237-5d-compressed-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -3182,7 +3272,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R238-5d-compressed-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -3217,7 +3308,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R239-5d-compressed-range-position"
   },
   {
     "sample_rows": 196935,
@@ -3252,7 +3344,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R240-5d-compressed-upper-breakout"
   },
   {
     "sample_rows": 196935,
@@ -3287,7 +3380,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R241-5d-compressed-lower-breakdown"
   },
   {
     "sample_rows": 196935,
@@ -3322,7 +3416,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R249-5d-compressed-risk-adjusted-trend"
   },
   {
     "sample_rows": 196935,
@@ -3357,7 +3452,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R250-5d-compressed-trend-efficiency"
   },
   {
     "sample_rows": 196935,
@@ -3392,7 +3488,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R265-7d-z-scored-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -3427,7 +3524,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R266-7d-z-scored-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -3462,7 +3560,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R267-7d-z-scored-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -3497,7 +3596,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R268-7d-z-scored-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -3532,7 +3632,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R269-7d-z-scored-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -3567,7 +3668,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R270-7d-z-scored-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -3602,7 +3704,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R271-7d-z-scored-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -3637,7 +3740,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R272-7d-z-scored-range-position"
   },
   {
     "sample_rows": 196935,
@@ -3672,7 +3776,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R273-7d-z-scored-upper-breakout"
   },
   {
     "sample_rows": 196935,
@@ -3707,7 +3812,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R274-7d-z-scored-lower-breakdown"
   },
   {
     "sample_rows": 196935,
@@ -3742,7 +3848,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R282-7d-z-scored-risk-adjusted-trend"
   },
   {
     "sample_rows": 196935,
@@ -3777,7 +3884,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R283-7d-z-scored-trend-efficiency"
   },
   {
     "sample_rows": 196935,
@@ -3812,7 +3920,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R298-7d-delta-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -3847,7 +3956,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R299-7d-delta-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -3882,7 +3992,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R300-7d-delta-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -3917,7 +4028,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R301-7d-delta-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -3952,7 +4064,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R302-7d-delta-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -3987,7 +4100,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R303-7d-delta-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -4022,7 +4136,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R304-7d-delta-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -4057,7 +4172,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R305-7d-delta-range-position"
   },
   {
     "sample_rows": 196935,
@@ -4092,7 +4208,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R306-7d-delta-upper-breakout"
   },
   {
     "sample_rows": 196935,
@@ -4127,7 +4244,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R307-7d-delta-lower-breakdown"
   },
   {
     "sample_rows": 196935,
@@ -4162,7 +4280,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R315-7d-delta-risk-adjusted-trend"
   },
   {
     "sample_rows": 196935,
@@ -4197,7 +4316,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R316-7d-delta-trend-efficiency"
   },
   {
     "sample_rows": 196935,
@@ -4232,7 +4352,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R331-7d-smoothed-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -4267,7 +4388,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R332-7d-smoothed-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -4302,7 +4424,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R333-7d-smoothed-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -4337,7 +4460,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R334-7d-smoothed-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -4372,7 +4496,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R335-7d-smoothed-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -4407,7 +4532,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R336-7d-smoothed-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -4442,7 +4568,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R337-7d-smoothed-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -4477,7 +4604,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R338-7d-smoothed-range-position"
   },
   {
     "sample_rows": 196935,
@@ -4512,7 +4640,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R339-7d-smoothed-upper-breakout"
   },
   {
     "sample_rows": 196935,
@@ -4547,7 +4676,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R340-7d-smoothed-lower-breakdown"
   },
   {
     "sample_rows": 196935,
@@ -4582,7 +4712,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R348-7d-smoothed-risk-adjusted-trend"
   },
   {
     "sample_rows": 196935,
@@ -4617,7 +4748,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R349-7d-smoothed-trend-efficiency"
   },
   {
     "sample_rows": 196935,
@@ -4652,7 +4784,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R364-7d-time-series-ranked-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -4687,7 +4820,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R365-7d-time-series-ranked-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -4722,7 +4856,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R366-7d-time-series-ranked-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -4757,7 +4892,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R367-7d-time-series-ranked-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -4792,7 +4928,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R368-7d-time-series-ranked-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -4827,7 +4964,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R369-7d-time-series-ranked-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -4862,7 +5000,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R370-7d-time-series-ranked-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -4897,7 +5036,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R371-7d-time-series-ranked-range-position"
   },
   {
     "sample_rows": 196935,
@@ -4932,7 +5072,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R372-7d-time-series-ranked-upper-breakout"
   },
   {
     "sample_rows": 196935,
@@ -4967,7 +5108,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R373-7d-time-series-ranked-lower-breakdown"
   },
   {
     "sample_rows": 196935,
@@ -5002,7 +5144,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R381-7d-time-series-ranked-risk-adjusted-trend"
   },
   {
     "sample_rows": 196935,
@@ -5037,7 +5180,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R382-7d-time-series-ranked-trend-efficiency"
   },
   {
     "sample_rows": 196935,
@@ -5072,7 +5216,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R397-7d-volatility-scaled-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -5107,7 +5252,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R398-7d-volatility-scaled-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -5142,7 +5288,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R399-7d-volatility-scaled-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -5177,7 +5324,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R400-7d-volatility-scaled-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -5212,7 +5360,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R401-7d-volatility-scaled-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -5247,7 +5396,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R402-7d-volatility-scaled-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -5282,7 +5432,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R403-7d-volatility-scaled-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -5317,7 +5468,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R404-7d-volatility-scaled-range-position"
   },
   {
     "sample_rows": 196935,
@@ -5352,7 +5504,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R405-7d-volatility-scaled-upper-breakout"
   },
   {
     "sample_rows": 196935,
@@ -5387,7 +5540,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R406-7d-volatility-scaled-lower-breakdown"
   },
   {
     "sample_rows": 196935,
@@ -5422,7 +5576,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R414-7d-volatility-scaled-risk-adjusted-trend"
   },
   {
     "sample_rows": 196935,
@@ -5457,7 +5612,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R415-7d-volatility-scaled-trend-efficiency"
   },
   {
     "sample_rows": 196935,
@@ -5492,7 +5648,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R430-7d-stability-scaled-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -5527,7 +5684,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R431-7d-stability-scaled-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -5562,7 +5720,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R432-7d-stability-scaled-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -5597,7 +5756,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R433-7d-stability-scaled-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -5632,7 +5792,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R434-7d-stability-scaled-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -5667,7 +5828,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R435-7d-stability-scaled-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -5702,7 +5864,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R436-7d-stability-scaled-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -5737,7 +5900,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R437-7d-stability-scaled-range-position"
   },
   {
     "sample_rows": 196935,
@@ -5772,7 +5936,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R438-7d-stability-scaled-upper-breakout"
   },
   {
     "sample_rows": 196935,
@@ -5807,7 +5972,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R439-7d-stability-scaled-lower-breakdown"
   },
   {
     "sample_rows": 196935,
@@ -5842,7 +6008,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R447-7d-stability-scaled-risk-adjusted-trend"
   },
   {
     "sample_rows": 196935,
@@ -5877,7 +6044,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R448-7d-stability-scaled-trend-efficiency"
   },
   {
     "sample_rows": 196935,
@@ -5912,7 +6080,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R463-7d-volume-confirmed-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -5947,7 +6116,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R464-7d-volume-confirmed-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -5982,7 +6152,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R465-7d-volume-confirmed-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -6017,7 +6188,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R466-7d-volume-confirmed-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -6052,7 +6224,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R467-7d-volume-confirmed-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -6087,7 +6260,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R468-7d-volume-confirmed-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -6122,7 +6296,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R469-7d-volume-confirmed-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -6157,7 +6332,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R470-7d-volume-confirmed-range-position"
   },
   {
     "sample_rows": 196935,
@@ -6192,7 +6368,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R471-7d-volume-confirmed-upper-breakout"
   },
   {
     "sample_rows": 196935,
@@ -6227,7 +6404,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R472-7d-volume-confirmed-lower-breakdown"
   },
   {
     "sample_rows": 196935,
@@ -6262,7 +6440,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R480-7d-volume-confirmed-risk-adjusted-trend"
   },
   {
     "sample_rows": 196935,
@@ -6297,7 +6476,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R481-7d-volume-confirmed-trend-efficiency"
   },
   {
     "sample_rows": 196935,
@@ -6332,7 +6512,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R496-7d-compressed-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -6367,7 +6548,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R497-7d-compressed-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -6402,7 +6584,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R498-7d-compressed-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -6437,7 +6620,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R499-7d-compressed-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -6472,7 +6656,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R500-7d-compressed-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -6507,7 +6692,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R501-7d-compressed-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -6542,7 +6728,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R502-7d-compressed-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -6577,7 +6764,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R503-7d-compressed-range-position"
   },
   {
     "sample_rows": 196935,
@@ -6612,7 +6800,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R504-7d-compressed-upper-breakout"
   },
   {
     "sample_rows": 196935,
@@ -6647,7 +6836,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R505-7d-compressed-lower-breakdown"
   },
   {
     "sample_rows": 196935,
@@ -6682,7 +6872,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R513-7d-compressed-risk-adjusted-trend"
   },
   {
     "sample_rows": 196935,
@@ -6717,7 +6908,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R514-7d-compressed-trend-efficiency"
   },
   {
     "sample_rows": 196935,
@@ -6752,7 +6944,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R529-10d-z-scored-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -6787,7 +6980,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R530-10d-z-scored-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -6822,7 +7016,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R531-10d-z-scored-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -6857,7 +7052,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R532-10d-z-scored-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -6892,7 +7088,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R533-10d-z-scored-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -6927,7 +7124,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R534-10d-z-scored-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -6962,7 +7160,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R535-10d-z-scored-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -6997,7 +7196,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R536-10d-z-scored-range-position"
   },
   {
     "sample_rows": 196935,
@@ -7032,7 +7232,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R537-10d-z-scored-upper-breakout"
   },
   {
     "sample_rows": 196935,
@@ -7067,7 +7268,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R538-10d-z-scored-lower-breakdown"
   },
   {
     "sample_rows": 196935,
@@ -7102,7 +7304,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R546-10d-z-scored-risk-adjusted-trend"
   },
   {
     "sample_rows": 196935,
@@ -7137,7 +7340,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R547-10d-z-scored-trend-efficiency"
   },
   {
     "sample_rows": 196935,
@@ -7172,7 +7376,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R562-10d-delta-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -7207,7 +7412,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R563-10d-delta-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -7242,7 +7448,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R564-10d-delta-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -7277,7 +7484,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R565-10d-delta-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -7312,7 +7520,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R566-10d-delta-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -7347,7 +7556,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R567-10d-delta-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -7382,7 +7592,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R568-10d-delta-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -7417,7 +7628,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R569-10d-delta-range-position"
   },
   {
     "sample_rows": 196935,
@@ -7452,7 +7664,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R570-10d-delta-upper-breakout"
   },
   {
     "sample_rows": 196935,
@@ -7487,7 +7700,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R571-10d-delta-lower-breakdown"
   },
   {
     "sample_rows": 196935,
@@ -7522,7 +7736,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R579-10d-delta-risk-adjusted-trend"
   },
   {
     "sample_rows": 196935,
@@ -7557,7 +7772,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R580-10d-delta-trend-efficiency"
   },
   {
     "sample_rows": 196935,
@@ -7592,7 +7808,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R595-10d-smoothed-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -7627,7 +7844,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R596-10d-smoothed-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -7662,7 +7880,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R597-10d-smoothed-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -7697,7 +7916,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R598-10d-smoothed-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -7732,7 +7952,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R599-10d-smoothed-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -7767,7 +7988,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R600-10d-smoothed-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -7802,7 +8024,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R601-10d-smoothed-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -7837,7 +8060,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R602-10d-smoothed-range-position"
   },
   {
     "sample_rows": 196935,
@@ -7872,7 +8096,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R603-10d-smoothed-upper-breakout"
   },
   {
     "sample_rows": 196935,
@@ -7907,7 +8132,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R604-10d-smoothed-lower-breakdown"
   },
   {
     "sample_rows": 196935,
@@ -7942,7 +8168,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R612-10d-smoothed-risk-adjusted-trend"
   },
   {
     "sample_rows": 196935,
@@ -7977,7 +8204,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R613-10d-smoothed-trend-efficiency"
   },
   {
     "sample_rows": 196935,
@@ -8012,7 +8240,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R628-10d-time-series-ranked-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -8047,7 +8276,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R629-10d-time-series-ranked-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -8082,7 +8312,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R630-10d-time-series-ranked-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -8117,7 +8348,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R631-10d-time-series-ranked-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -8152,7 +8384,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R632-10d-time-series-ranked-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -8187,7 +8420,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R633-10d-time-series-ranked-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -8222,7 +8456,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R634-10d-time-series-ranked-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -8257,7 +8492,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R635-10d-time-series-ranked-range-position"
   },
   {
     "sample_rows": 196935,
@@ -8292,7 +8528,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R636-10d-time-series-ranked-upper-breakout"
   },
   {
     "sample_rows": 196935,
@@ -8327,7 +8564,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R637-10d-time-series-ranked-lower-breakdown"
   },
   {
     "sample_rows": 196935,
@@ -8362,7 +8600,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R645-10d-time-series-ranked-risk-adjusted-trend"
   },
   {
     "sample_rows": 196935,
@@ -8397,7 +8636,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R646-10d-time-series-ranked-trend-efficiency"
   },
   {
     "sample_rows": 196935,
@@ -8432,7 +8672,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R661-10d-volatility-scaled-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -8467,7 +8708,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R662-10d-volatility-scaled-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -8502,7 +8744,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R663-10d-volatility-scaled-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -8537,7 +8780,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R664-10d-volatility-scaled-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -8572,7 +8816,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R665-10d-volatility-scaled-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -8607,7 +8852,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R666-10d-volatility-scaled-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -8642,7 +8888,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R667-10d-volatility-scaled-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -8677,7 +8924,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R668-10d-volatility-scaled-range-position"
   },
   {
     "sample_rows": 196935,
@@ -8712,7 +8960,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R669-10d-volatility-scaled-upper-breakout"
   },
   {
     "sample_rows": 196935,
@@ -8747,7 +8996,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R670-10d-volatility-scaled-lower-breakdown"
   },
   {
     "sample_rows": 196935,
@@ -8782,7 +9032,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R678-10d-volatility-scaled-risk-adjusted-trend"
   },
   {
     "sample_rows": 196935,
@@ -8817,7 +9068,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R679-10d-volatility-scaled-trend-efficiency"
   },
   {
     "sample_rows": 196935,
@@ -8852,7 +9104,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R694-10d-stability-scaled-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -8887,7 +9140,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R695-10d-stability-scaled-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -8922,7 +9176,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R696-10d-stability-scaled-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -8957,7 +9212,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R697-10d-stability-scaled-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -8992,7 +9248,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R698-10d-stability-scaled-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -9027,7 +9284,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R699-10d-stability-scaled-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -9062,7 +9320,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R700-10d-stability-scaled-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -9097,7 +9356,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R701-10d-stability-scaled-range-position"
   },
   {
     "sample_rows": 196935,
@@ -9132,7 +9392,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R702-10d-stability-scaled-upper-breakout"
   },
   {
     "sample_rows": 196935,
@@ -9167,7 +9428,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R703-10d-stability-scaled-lower-breakdown"
   },
   {
     "sample_rows": 196935,
@@ -9202,7 +9464,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R711-10d-stability-scaled-risk-adjusted-trend"
   },
   {
     "sample_rows": 196935,
@@ -9237,7 +9500,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R712-10d-stability-scaled-trend-efficiency"
   },
   {
     "sample_rows": 196935,
@@ -9272,7 +9536,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R727-10d-volume-confirmed-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -9307,7 +9572,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R728-10d-volume-confirmed-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -9342,7 +9608,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R729-10d-volume-confirmed-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -9377,7 +9644,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R730-10d-volume-confirmed-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -9412,7 +9680,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R731-10d-volume-confirmed-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -9447,7 +9716,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R732-10d-volume-confirmed-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -9482,7 +9752,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R733-10d-volume-confirmed-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -9517,7 +9788,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R734-10d-volume-confirmed-range-position"
   },
   {
     "sample_rows": 196935,
@@ -9552,7 +9824,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R735-10d-volume-confirmed-upper-breakout"
   },
   {
     "sample_rows": 196935,
@@ -9587,7 +9860,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R736-10d-volume-confirmed-lower-breakdown"
   },
   {
     "sample_rows": 196935,
@@ -9622,7 +9896,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R744-10d-volume-confirmed-risk-adjusted-trend"
   },
   {
     "sample_rows": 196935,
@@ -9657,7 +9932,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R745-10d-volume-confirmed-trend-efficiency"
   },
   {
     "sample_rows": 196935,
@@ -9692,7 +9968,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R760-10d-compressed-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -9727,7 +10004,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R761-10d-compressed-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -9762,7 +10040,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R762-10d-compressed-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -9797,7 +10076,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R763-10d-compressed-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -9832,7 +10112,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R764-10d-compressed-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -9867,7 +10148,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R765-10d-compressed-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -9902,7 +10184,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R766-10d-compressed-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -9937,7 +10220,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R767-10d-compressed-range-position"
   },
   {
     "sample_rows": 196935,
@@ -9972,7 +10256,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R768-10d-compressed-upper-breakout"
   },
   {
     "sample_rows": 196935,
@@ -10007,7 +10292,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R769-10d-compressed-lower-breakdown"
   },
   {
     "sample_rows": 196935,
@@ -10042,7 +10328,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R777-10d-compressed-risk-adjusted-trend"
   },
   {
     "sample_rows": 196935,
@@ -10077,7 +10364,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R778-10d-compressed-trend-efficiency"
   },
   {
     "sample_rows": 196935,
@@ -10112,7 +10400,8 @@
       "slow": 14
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R793-14d-z-scored-return-momentum"
   },
   {
     "sample_rows": 196935,
@@ -10147,7 +10436,8 @@
       "slow": 14
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R794-14d-z-scored-skip-period-momentum"
   },
   {
     "sample_rows": 196935,
@@ -10182,7 +10472,8 @@
       "slow": 14
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R795-14d-z-scored-return-reversal"
   },
   {
     "sample_rows": 196935,
@@ -10217,7 +10508,8 @@
       "slow": 14
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R796-14d-z-scored-sma-gap"
   },
   {
     "sample_rows": 196935,
@@ -10252,7 +10544,8 @@
       "slow": 14
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R797-14d-z-scored-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -10287,7 +10580,8 @@
       "slow": 14
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R798-14d-z-scored-dual-ema-gap"
   },
   {
     "sample_rows": 196935,
@@ -10322,7 +10616,8 @@
       "slow": 14
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R799-14d-z-scored-sma-slope"
   },
   {
     "sample_rows": 196935,
@@ -10357,6 +10652,7 @@
       "slow": 14
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R800-14d-z-scored-range-position"
   }
 ]
